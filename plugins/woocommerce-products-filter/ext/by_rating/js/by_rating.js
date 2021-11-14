@@ -1,0 +1,1 @@
+function woof_init_byrating() {}

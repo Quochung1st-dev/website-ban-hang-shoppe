@@ -1,0 +1,5 @@
+title="Hierarchy drop-down"
+version="1.1"
+modificated="03-10-2016"
+description="Hierarchical drop-downs. <a href="http://www.demo.woocommerce-filter.com/working-with-hierarchy-drop-down/" target="_blank">Example of using</a>: custom taxonomy 'Location', where parent is сountry, сhild is city, sub-child is district"
+link="http://www.woocommerce-filter.com/extencion/hierarchy-drop-down/"

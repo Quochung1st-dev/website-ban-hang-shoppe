@@ -1,0 +1,3403 @@
+# Copyright (C) 2016 Dzikri Aziz
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Icon Picker 0.4.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/icon-picker\n"
+"POT-Creation-Date: 2016-04-27 17:54:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+
+#: includes/types/genericon.php:587
+msgid "404"
+msgstr ""
+
+#: includes/fields/base.php:67 includes/loader.php:231
+msgid "Select Icon"
+msgstr ""
+
+#: includes/fields/base.php:68 includes/types/elusive.php:465
+msgid "Remove"
+msgstr ""
+
+#: includes/fontpack.php:132
+msgid "Icon Picker: %1$s was not found in %2$s."
+msgstr ""
+
+#: includes/fontpack.php:133
+msgid "Icon Picker: %s contains an error or more."
+msgstr ""
+
+#: includes/fontpack.php:134
+msgid "Icon Picker: %1$s is not set or invalid in %2$s."
+msgstr ""
+
+#: includes/fontpack.php:135
+msgid ""
+"Icon Picker: %1$s is already registered. Please check your font pack config "
+"file: %2$s."
+msgstr ""
+
+#: includes/fontpack.php:273
+msgid "Pack: %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Icon Picker"
+msgstr ""
+
+#: includes/loader.php:230
+msgid "All"
+msgstr ""
+
+#: includes/types/dashicons.php:81
+msgid "Admin"
+msgstr ""
+
+#: includes/types/dashicons.php:85 includes/types/genericon.php:77
+msgid "Post Formats"
+msgstr ""
+
+#: includes/types/dashicons.php:89
+msgid "Welcome Screen"
+msgstr ""
+
+#: includes/types/dashicons.php:93
+msgid "Image Editor"
+msgstr ""
+
+#: includes/types/dashicons.php:97 includes/types/fa.php:108
+#: includes/types/genericon.php:81
+msgid "Text Editor"
+msgstr ""
+
+#: includes/types/dashicons.php:101
+msgid "Post"
+msgstr ""
+
+#: includes/types/dashicons.php:105
+msgid "Sorting"
+msgstr ""
+
+#: includes/types/dashicons.php:109 includes/types/elusive.php:68
+#: includes/types/genericon.php:85
+msgid "Social"
+msgstr ""
+
+#: includes/types/dashicons.php:113
+msgid "Jobs"
+msgstr ""
+
+#: includes/types/dashicons.php:117
+msgid "Internal/Products"
+msgstr ""
+
+#: includes/types/dashicons.php:121
+msgid "Taxonomies"
+msgstr ""
+
+#: includes/types/dashicons.php:125
+msgid "Alerts/Notifications"
+msgstr ""
+
+#: includes/types/dashicons.php:129 includes/types/dashicons.php:200
+#: includes/types/elusive.php:56
+msgid "Media"
+msgstr ""
+
+#: includes/types/dashicons.php:133
+msgid "Misc./Post Types"
+msgstr ""
+
+#: includes/types/dashicons.php:160
+msgid "Appearance"
+msgstr ""
+
+#: includes/types/dashicons.php:165 includes/types/genericon.php:137
+msgid "Collapse"
+msgstr ""
+
+#: includes/types/dashicons.php:170 includes/types/dashicons.php:305
+#: includes/types/fa.php:2233 includes/types/fa.php:2238
+#: includes/types/foundation-icons.php:634
+msgid "Comments"
+msgstr ""
+
+#: includes/types/dashicons.php:175
+msgid "Customizer"
+msgstr ""
+
+#: includes/types/dashicons.php:180 includes/types/elusive.php:1295
+#: includes/types/fa.php:2298
+msgid "Dashboard"
+msgstr ""
+
+#: includes/types/dashicons.php:185
+msgid "Generic"
+msgstr ""
+
+#: includes/types/dashicons.php:190 includes/types/dashicons.php:340
+#: includes/types/elusive.php:865 includes/types/fa.php:2418
+#: includes/types/foundation-icons.php:509
+msgid "Filter"
+msgstr ""
+
+#: includes/types/dashicons.php:195 includes/types/elusive.php:1300
+#: includes/types/elusive.php:1305 includes/types/fa.php:2583
+#: includes/types/foundation-icons.php:754 includes/types/genericon.php:602
+msgid "Home"
+msgstr ""
+
+#: includes/types/dashicons.php:205 includes/types/genericon.php:522
+msgid "Menu"
+msgstr ""
+
+#: includes/types/dashicons.php:210
+msgid "Multisite"
+msgstr ""
+
+#: includes/types/dashicons.php:215 includes/types/elusive.php:1315
+msgid "Network"
+msgstr ""
+
+#: includes/types/dashicons.php:220
+msgid "Page"
+msgstr ""
+
+#: includes/types/dashicons.php:225
+msgid "Plugins"
+msgstr ""
+
+#: includes/types/dashicons.php:230
+msgid "Settings"
+msgstr ""
+
+#: includes/types/dashicons.php:235
+msgid "Site"
+msgstr ""
+
+#: includes/types/dashicons.php:240
+msgid "Tools"
+msgstr ""
+
+#: includes/types/dashicons.php:245 includes/types/fa.php:3378
+msgid "Users"
+msgstr ""
+
+#: includes/types/dashicons.php:250 includes/types/genericon.php:622
+msgid "Standard"
+msgstr ""
+
+#: includes/types/dashicons.php:255 includes/types/genericon.php:627
+msgid "Aside"
+msgstr ""
+
+#: includes/types/dashicons.php:260 includes/types/genericon.php:632
+#: includes/types/image.php:53
+msgid "Image"
+msgstr ""
+
+#: includes/types/dashicons.php:265 includes/types/dashicons.php:470
+#: includes/types/dashicons.php:935 includes/types/dashicons.php:1200
+#: includes/types/dashicons.php:1205 includes/types/dashicons.php:1210
+#: includes/types/elusive.php:635 includes/types/elusive.php:640
+#: includes/types/foundation-icons.php:289 includes/types/genericon.php:642
+msgid "Video"
+msgstr ""
+
+#: includes/types/dashicons.php:270 includes/types/dashicons.php:900
+#: includes/types/genericon.php:667
+msgid "Audio"
+msgstr ""
+
+#: includes/types/dashicons.php:275 includes/types/dashicons.php:400
+#: includes/types/foundation-icons.php:544 includes/types/genericon.php:652
+msgid "Quote"
+msgstr ""
+
+#: includes/types/dashicons.php:280 includes/types/genericon.php:637
+msgid "Gallery"
+msgstr ""
+
+#: includes/types/dashicons.php:285
+msgid "Links"
+msgstr ""
+
+#: includes/types/dashicons.php:290 includes/types/genericon.php:647
+msgid "Status"
+msgstr ""
+
+#: includes/types/dashicons.php:295 includes/types/genericon.php:662
+msgid "Chat"
+msgstr ""
+
+#: includes/types/dashicons.php:300
+msgid "Add page"
+msgstr ""
+
+#: includes/types/dashicons.php:310
+msgid "Edit page"
+msgstr ""
+
+#: includes/types/dashicons.php:315
+msgid "Learn More"
+msgstr ""
+
+#: includes/types/dashicons.php:320
+msgid "View Site"
+msgstr ""
+
+#: includes/types/dashicons.php:325
+msgid "Widgets"
+msgstr ""
+
+#: includes/types/dashicons.php:330
+msgid "Write Blog"
+msgstr ""
+
+#: includes/types/dashicons.php:335 includes/types/fa.php:2268
+#: includes/types/foundation-icons.php:504
+msgid "Crop"
+msgstr ""
+
+#: includes/types/dashicons.php:345
+msgid "Rotate"
+msgstr ""
+
+#: includes/types/dashicons.php:350
+msgid "Rotate Left"
+msgstr ""
+
+#: includes/types/dashicons.php:355
+msgid "Rotate Right"
+msgstr ""
+
+#: includes/types/dashicons.php:360
+msgid "Flip Vertical"
+msgstr ""
+
+#: includes/types/dashicons.php:365
+msgid "Flip Horizontal"
+msgstr ""
+
+#: includes/types/dashicons.php:370 includes/types/fa.php:1743
+msgid "Undo"
+msgstr ""
+
+#: includes/types/dashicons.php:375
+msgid "Redo"
+msgstr ""
+
+#: includes/types/dashicons.php:380 includes/types/elusive.php:180
+#: includes/types/fa.php:1633 includes/types/foundation-icons.php:374
+#: includes/types/genericon.php:692
+msgid "Bold"
+msgstr ""
+
+#: includes/types/dashicons.php:385 includes/types/elusive.php:185
+#: includes/types/fa.php:1693 includes/types/foundation-icons.php:379
+#: includes/types/genericon.php:697
+msgid "Italic"
+msgstr ""
+
+#: includes/types/dashicons.php:390 includes/types/fa.php:1723
+msgid "Unordered List"
+msgstr ""
+
+#: includes/types/dashicons.php:395 includes/types/fa.php:1718
+msgid "Ordered List"
+msgstr ""
+
+#: includes/types/dashicons.php:405 includes/types/dashicons.php:510
+#: includes/types/elusive.php:105 includes/types/fa.php:1613
+#: includes/types/foundation-icons.php:414
+msgid "Align Left"
+msgstr ""
+
+#: includes/types/dashicons.php:410 includes/types/dashicons.php:520
+#: includes/types/elusive.php:110 includes/types/fa.php:1618
+#: includes/types/foundation-icons.php:419
+msgid "Align Center"
+msgstr ""
+
+#: includes/types/dashicons.php:415 includes/types/dashicons.php:515
+#: includes/types/elusive.php:115 includes/types/fa.php:1628
+#: includes/types/foundation-icons.php:424
+msgid "Align Right"
+msgstr ""
+
+#: includes/types/dashicons.php:420
+msgid "Insert More"
+msgstr ""
+
+#: includes/types/dashicons.php:425
+msgid "Spell Check"
+msgstr ""
+
+#: includes/types/dashicons.php:430
+msgid "Distraction-free"
+msgstr ""
+
+#: includes/types/dashicons.php:435
+msgid "Kitchensink"
+msgstr ""
+
+#: includes/types/dashicons.php:440 includes/types/fa.php:1798
+#: includes/types/foundation-icons.php:384
+msgid "Underline"
+msgstr ""
+
+#: includes/types/dashicons.php:445 includes/types/elusive.php:120
+#: includes/types/fa.php:1623 includes/types/foundation-icons.php:429
+msgid "Justify"
+msgstr ""
+
+#: includes/types/dashicons.php:450 includes/types/foundation-icons.php:394
+msgid "Text Color"
+msgstr ""
+
+#: includes/types/dashicons.php:455
+msgid "Paste Word"
+msgstr ""
+
+#: includes/types/dashicons.php:460
+msgid "Paste Text"
+msgstr ""
+
+#: includes/types/dashicons.php:465
+msgid "Clear Formatting"
+msgstr ""
+
+#: includes/types/dashicons.php:475
+msgid "Custom Characters"
+msgstr ""
+
+#: includes/types/dashicons.php:480 includes/types/fa.php:1683
+#: includes/types/foundation-icons.php:444
+msgid "Indent"
+msgstr ""
+
+#: includes/types/dashicons.php:485 includes/types/fa.php:1688
+#: includes/types/foundation-icons.php:449
+msgid "Outdent"
+msgstr ""
+
+#: includes/types/dashicons.php:490 includes/types/genericon.php:147
+msgid "Help"
+msgstr ""
+
+#: includes/types/dashicons.php:495 includes/types/fa.php:1753
+#: includes/types/foundation-icons.php:389
+msgid "Strikethrough"
+msgstr ""
+
+#: includes/types/dashicons.php:500 includes/types/fa.php:1703
+#: includes/types/foundation-icons.php:539
+msgid "Unlink"
+msgstr ""
+
+#: includes/types/dashicons.php:505
+msgid "RTL"
+msgstr ""
+
+#: includes/types/dashicons.php:525
+msgid "Align None"
+msgstr ""
+
+#: includes/types/dashicons.php:530 includes/types/elusive.php:335
+#: includes/types/elusive.php:340 includes/types/fa.php:2698
+#: includes/types/foundation-icons.php:784 includes/types/genericon.php:157
+msgid "Lock"
+msgstr ""
+
+#: includes/types/dashicons.php:535 includes/types/dashicons.php:540
+#: includes/types/elusive.php:725 includes/types/fa.php:2083
+#: includes/types/fa.php:2088 includes/types/fa.php:2093
+#: includes/types/fa.php:2098 includes/types/fa.php:2103
+#: includes/types/foundation-icons.php:599
+msgid "Calendar"
+msgstr ""
+
+#: includes/types/dashicons.php:545
+msgid "Hidden"
+msgstr ""
+
+#: includes/types/dashicons.php:550
+msgid "Visibility"
+msgstr ""
+
+#: includes/types/dashicons.php:555
+msgid "Post Status"
+msgstr ""
+
+#: includes/types/dashicons.php:560
+msgid "Post Trash"
+msgstr ""
+
+#: includes/types/dashicons.php:565 includes/types/elusive.php:275
+#: includes/types/fa.php:2323 includes/types/genericon.php:682
+msgid "Edit"
+msgstr ""
+
+#: includes/types/dashicons.php:570 includes/types/elusive.php:570
+#: includes/types/elusive.php:575 includes/types/fa.php:3318
+#: includes/types/fa.php:3323 includes/types/foundation-icons.php:859
+#: includes/types/genericon.php:592
+msgid "Trash"
+msgstr ""
+
+#: includes/types/dashicons.php:575 includes/types/dashicons.php:595
+#: includes/types/dashicons.php:615 includes/types/foundation-icons.php:184
+msgid "Arrow: Up"
+msgstr ""
+
+#: includes/types/dashicons.php:580 includes/types/dashicons.php:600
+#: includes/types/dashicons.php:620 includes/types/foundation-icons.php:189
+msgid "Arrow: Down"
+msgstr ""
+
+#: includes/types/dashicons.php:585 includes/types/dashicons.php:605
+#: includes/types/dashicons.php:625 includes/types/foundation-icons.php:194
+msgid "Arrow: Left"
+msgstr ""
+
+#: includes/types/dashicons.php:590 includes/types/dashicons.php:610
+#: includes/types/dashicons.php:630 includes/types/foundation-icons.php:199
+msgid "Arrow: Right"
+msgstr ""
+
+#: includes/types/dashicons.php:635
+msgid "Left-Right"
+msgstr ""
+
+#: includes/types/dashicons.php:640 includes/types/fa.php:3083
+msgid "Sort"
+msgstr ""
+
+#: includes/types/dashicons.php:645
+msgid "List View"
+msgstr ""
+
+#: includes/types/dashicons.php:650
+msgid "Excerpt View"
+msgstr ""
+
+#: includes/types/dashicons.php:655
+msgid "Grid View"
+msgstr ""
+
+#: includes/types/dashicons.php:660 includes/types/dashicons.php:665
+#: includes/types/dashicons.php:670 includes/types/elusive.php:525
+#: includes/types/elusive.php:530 includes/types/fa.php:3008
+#: includes/types/fa.php:3013 includes/types/fa.php:3018
+#: includes/types/fa.php:3023 includes/types/fa.php:3028
+#: includes/types/foundation-icons.php:839 includes/types/genericon.php:262
+msgid "Share"
+msgstr ""
+
+#: includes/types/dashicons.php:675
+msgid "Twitter"
+msgstr ""
+
+#: includes/types/dashicons.php:680 includes/types/fa.php:2978
+#: includes/types/foundation-icons.php:834
+msgid "RSS"
+msgstr ""
+
+#: includes/types/dashicons.php:685 includes/types/dashicons.php:690
+msgid "Email"
+msgstr ""
+
+#: includes/types/dashicons.php:695 includes/types/dashicons.php:700
+msgid "Facebook"
+msgstr ""
+
+#: includes/types/dashicons.php:705
+msgid "Google+"
+msgstr ""
+
+#: includes/types/dashicons.php:710
+msgid "Networking"
+msgstr ""
+
+#: includes/types/dashicons.php:715
+msgid "Art"
+msgstr ""
+
+#: includes/types/dashicons.php:720
+msgid "Hammer"
+msgstr ""
+
+#: includes/types/dashicons.php:725
+msgid "Migrate"
+msgstr ""
+
+#: includes/types/dashicons.php:730
+msgid "Performance"
+msgstr ""
+
+#: includes/types/dashicons.php:735 includes/types/dashicons.php:740
+msgid "WordPress"
+msgstr ""
+
+#: includes/types/dashicons.php:745
+msgid "PressThis"
+msgstr ""
+
+#: includes/types/dashicons.php:750
+msgid "Update"
+msgstr ""
+
+#: includes/types/dashicons.php:755
+msgid "Screen Options"
+msgstr ""
+
+#: includes/types/dashicons.php:760 includes/types/elusive.php:1045
+#: includes/types/fa.php:2628 includes/types/fa.php:2633
+#: includes/types/foundation-icons.php:1074 includes/types/genericon.php:152
+msgid "Info"
+msgstr ""
+
+#: includes/types/dashicons.php:765 includes/types/genericon.php:437
+msgid "Cart"
+msgstr ""
+
+#: includes/types/dashicons.php:770
+msgid "Feedback"
+msgstr ""
+
+#: includes/types/dashicons.php:775 includes/types/elusive.php:1345
+#: includes/types/elusive.php:1350 includes/types/fa.php:2188
+#: includes/types/foundation-icons.php:609 includes/types/genericon.php:597
+msgid "Cloud"
+msgstr ""
+
+#: includes/types/dashicons.php:780
+msgid "Translation"
+msgstr ""
+
+#: includes/types/dashicons.php:785 includes/types/elusive.php:535
+#: includes/types/fa.php:3208 includes/types/genericon.php:367
+msgid "Tag"
+msgstr ""
+
+#: includes/types/dashicons.php:790 includes/types/genericon.php:357
+msgid "Category"
+msgstr ""
+
+#: includes/types/dashicons.php:795
+msgid "Yes"
+msgstr ""
+
+#: includes/types/dashicons.php:800 includes/types/dashicons.php:805
+msgid "No"
+msgstr ""
+
+#: includes/types/dashicons.php:810 includes/types/elusive.php:430
+#: includes/types/fa.php:1328 includes/types/fa.php:1333
+#: includes/types/fa.php:2883 includes/types/fa.php:2888
+#: includes/types/foundation-icons.php:674 includes/types/genericon.php:172
+msgid "Plus"
+msgstr ""
+
+#: includes/types/dashicons.php:815 includes/types/elusive.php:365
+#: includes/types/fa.php:1318 includes/types/fa.php:1323
+#: includes/types/fa.php:2773 includes/types/fa.php:2778
+#: includes/types/foundation-icons.php:679
+#: includes/types/foundation-icons.php:684 includes/types/genericon.php:177
+msgid "Minus"
+msgstr ""
+
+#: includes/types/dashicons.php:820
+msgid "Dismiss"
+msgstr ""
+
+#: includes/types/dashicons.php:825 includes/types/foundation-icons.php:794
+msgid "Marker"
+msgstr ""
+
+#: includes/types/dashicons.php:830
+msgid "Star: Filled"
+msgstr ""
+
+#: includes/types/dashicons.php:835
+msgid "Star: Half"
+msgstr ""
+
+#: includes/types/dashicons.php:840
+msgid "Star: Empty"
+msgstr ""
+
+#: includes/types/dashicons.php:845 includes/types/elusive.php:875
+#: includes/types/elusive.php:880 includes/types/fa.php:2433
+#: includes/types/fa.php:2438 includes/types/fa.php:2443
+#: includes/types/foundation-icons.php:724 includes/types/genericon.php:492
+msgid "Flag"
+msgstr ""
+
+#: includes/types/dashicons.php:850
+msgid "Skip Back"
+msgstr ""
+
+#: includes/types/dashicons.php:855
+msgid "Back"
+msgstr ""
+
+#: includes/types/dashicons.php:860 includes/types/elusive.php:400
+#: includes/types/elusive.php:405 includes/types/fa.php:1858
+#: includes/types/fa.php:1863 includes/types/fa.php:1868
+#: includes/types/foundation-icons.php:894
+#: includes/types/foundation-icons.php:899 includes/types/genericon.php:327
+msgid "Play"
+msgstr ""
+
+#: includes/types/dashicons.php:865 includes/types/elusive.php:410
+#: includes/types/elusive.php:415 includes/types/fa.php:1843
+#: includes/types/fa.php:1848 includes/types/fa.php:1853
+#: includes/types/foundation-icons.php:904 includes/types/genericon.php:332
+msgid "Pause"
+msgstr ""
+
+#: includes/types/dashicons.php:870 includes/types/elusive.php:160
+#: includes/types/elusive.php:165 includes/types/fa.php:1838
+msgid "Forward"
+msgstr ""
+
+#: includes/types/dashicons.php:875
+msgid "Skip Forward"
+msgstr ""
+
+#: includes/types/dashicons.php:880 includes/types/elusive.php:470
+#: includes/types/elusive.php:475 includes/types/fa.php:1738
+msgid "Repeat"
+msgstr ""
+
+#: includes/types/dashicons.php:885
+msgid "Volume: On"
+msgstr ""
+
+#: includes/types/dashicons.php:890
+msgid "Volume: Off"
+msgstr ""
+
+#: includes/types/dashicons.php:895 includes/types/fa.php:1913
+#: includes/types/foundation-icons.php:589
+msgid "Archive"
+msgstr ""
+
+#: includes/types/dashicons.php:905 includes/types/fa.php:2203
+#: includes/types/genericon.php:687
+msgid "Code"
+msgstr ""
+
+#: includes/types/dashicons.php:910
+msgid "Default"
+msgstr ""
+
+#: includes/types/dashicons.php:915 includes/types/genericon.php:457
+msgid "Document"
+msgstr ""
+
+#: includes/types/dashicons.php:920
+msgid "Interactive"
+msgstr ""
+
+#: includes/types/dashicons.php:925
+msgid "Spreadsheet"
+msgstr ""
+
+#: includes/types/dashicons.php:930
+msgid "Text"
+msgstr ""
+
+#: includes/types/dashicons.php:940
+msgid "Audio Playlist"
+msgstr ""
+
+#: includes/types/dashicons.php:945
+msgid "Video Playlist"
+msgstr ""
+
+#: includes/types/dashicons.php:950
+msgid "Album"
+msgstr ""
+
+#: includes/types/dashicons.php:955
+msgid "Analytics"
+msgstr ""
+
+#: includes/types/dashicons.php:960
+msgid "Awards"
+msgstr ""
+
+#: includes/types/dashicons.php:965
+msgid "Backup"
+msgstr ""
+
+#: includes/types/dashicons.php:970 includes/types/fa.php:2058
+#: includes/types/fa.php:2063
+msgid "Building"
+msgstr ""
+
+#: includes/types/dashicons.php:975
+msgid "Businessman"
+msgstr ""
+
+#: includes/types/dashicons.php:980 includes/types/elusive.php:735
+#: includes/types/fa.php:2108 includes/types/foundation-icons.php:229
+msgid "Camera"
+msgstr ""
+
+#: includes/types/dashicons.php:985
+msgid "Carrot"
+msgstr ""
+
+#: includes/types/dashicons.php:990
+msgid "Chart: Pie"
+msgstr ""
+
+#: includes/types/dashicons.php:995
+msgid "Chart: Bar"
+msgstr ""
+
+#: includes/types/dashicons.php:1000
+msgid "Chart: Line"
+msgstr ""
+
+#: includes/types/dashicons.php:1005
+msgid "Chart: Area"
+msgstr ""
+
+#: includes/types/dashicons.php:1010 includes/types/fa.php:2308
+msgid "Desktop"
+msgstr ""
+
+#: includes/types/dashicons.php:1015
+msgid "Forms"
+msgstr ""
+
+#: includes/types/dashicons.php:1020
+msgid "Groups"
+msgstr ""
+
+#: includes/types/dashicons.php:1025 includes/types/dashicons.php:1030
+msgid "ID"
+msgstr ""
+
+#: includes/types/dashicons.php:1035 includes/types/dashicons.php:1040
+msgid "Images"
+msgstr ""
+
+#: includes/types/dashicons.php:1045
+msgid "Index Card"
+msgstr ""
+
+#: includes/types/dashicons.php:1050 includes/types/foundation-icons.php:759
+msgid "Layout"
+msgstr ""
+
+#: includes/types/dashicons.php:1055 includes/types/dashicons.php:1060
+#: includes/types/genericon.php:607
+msgid "Location"
+msgstr ""
+
+#: includes/types/dashicons.php:1065
+msgid "Products"
+msgstr ""
+
+#: includes/types/dashicons.php:1070 includes/types/genericon.php:557
+msgid "Portfolio"
+msgstr ""
+
+#: includes/types/dashicons.php:1075 includes/types/dashicons.php:1080
+#: includes/types/elusive.php:690 includes/types/fa.php:2028
+#: includes/types/foundation-icons.php:999 includes/types/genericon.php:432
+msgid "Book"
+msgstr ""
+
+#: includes/types/dashicons.php:1085 includes/types/elusive.php:265
+#: includes/types/elusive.php:270 includes/types/fa.php:2318
+#: includes/types/foundation-icons.php:709 includes/types/genericon.php:467
+msgid "Download"
+msgstr ""
+
+#: includes/types/dashicons.php:1090 includes/types/elusive.php:580
+#: includes/types/fa.php:3368 includes/types/foundation-icons.php:714
+msgid "Upload"
+msgstr ""
+
+#: includes/types/dashicons.php:1095 includes/types/fa.php:2178
+#: includes/types/foundation-icons.php:604
+msgid "Clock"
+msgstr ""
+
+#: includes/types/dashicons.php:1100 includes/types/fa.php:2688
+#: includes/types/foundation-icons.php:1084
+msgid "Lightbulb"
+msgstr ""
+
+#: includes/types/dashicons.php:1105 includes/types/fa.php:958
+msgid "Money"
+msgstr ""
+
+#: includes/types/dashicons.php:1110
+msgid "Palm Tree"
+msgstr ""
+
+#: includes/types/dashicons.php:1115 includes/types/elusive.php:1120
+#: includes/types/elusive.php:1125 includes/types/fa.php:2858
+#: includes/types/fa.php:2868 includes/types/genericon.php:542
+msgid "Phone"
+msgstr ""
+
+#: includes/types/dashicons.php:1120 includes/types/elusive.php:515
+#: includes/types/elusive.php:520 includes/types/fa.php:2988
+#: includes/types/genericon.php:247
+msgid "Search"
+msgstr ""
+
+#: includes/types/dashicons.php:1125 includes/types/dashicons.php:1130
+#: includes/types/fa.php:3033 includes/types/foundation-icons.php:1144
+msgid "Shield"
+msgstr ""
+
+#: includes/types/dashicons.php:1135
+msgid "Slides"
+msgstr ""
+
+#: includes/types/dashicons.php:1140
+msgid "Smartphone"
+msgstr ""
+
+#: includes/types/dashicons.php:1145 includes/types/elusive.php:1215
+#: includes/types/elusive.php:1220
+msgid "Smiley"
+msgstr ""
+
+#: includes/types/dashicons.php:1150
+msgid "S.O.S."
+msgstr ""
+
+#: includes/types/dashicons.php:1155
+msgid "Sticky"
+msgstr ""
+
+#: includes/types/dashicons.php:1160
+msgid "Store"
+msgstr ""
+
+#: includes/types/dashicons.php:1165 includes/types/fa.php:3198
+#: includes/types/genericon.php:572
+msgid "Tablet"
+msgstr ""
+
+#: includes/types/dashicons.php:1170
+msgid "Testimonial"
+msgstr ""
+
+#: includes/types/dashicons.php:1175
+msgid "Tickets"
+msgstr ""
+
+#: includes/types/dashicons.php:1180 includes/types/elusive.php:555
+#: includes/types/fa.php:3243 includes/types/fa.php:3253
+msgid "Thumbs Up"
+msgstr ""
+
+#: includes/types/dashicons.php:1185 includes/types/elusive.php:560
+#: includes/types/fa.php:3238 includes/types/fa.php:3248
+msgid "Thumbs Down"
+msgstr ""
+
+#: includes/types/dashicons.php:1190 includes/types/elusive.php:345
+#: includes/types/elusive.php:350 includes/types/fa.php:3353
+#: includes/types/fa.php:3358 includes/types/foundation-icons.php:789
+msgid "Unlock"
+msgstr ""
+
+#: includes/types/dashicons.php:1195
+msgid "Vault"
+msgstr ""
+
+#: includes/types/dashicons.php:1215 includes/types/fa.php:3418
+#: includes/types/genericon.php:582
+msgid "Warning"
+msgstr ""
+
+#: includes/types/elusive.php:48 includes/types/genericon.php:57
+msgid "Actions"
+msgstr ""
+
+#: includes/types/elusive.php:52 includes/types/fa.php:72
+msgid "Currency"
+msgstr ""
+
+#: includes/types/elusive.php:60 includes/types/genericon.php:69
+msgid "Misc."
+msgstr ""
+
+#: includes/types/elusive.php:64 includes/types/genericon.php:73
+msgid "Places"
+msgstr ""
+
+#: includes/types/elusive.php:95 includes/types/elusive.php:100
+#: includes/types/fa.php:1903
+msgid "Adjust"
+msgstr ""
+
+#: includes/types/elusive.php:125 includes/types/fa.php:1083
+#: includes/types/genericon.php:402
+msgid "Arrow Up"
+msgstr ""
+
+#: includes/types/elusive.php:130 includes/types/fa.php:1068
+#: includes/types/genericon.php:407
+msgid "Arrow Down"
+msgstr ""
+
+#: includes/types/elusive.php:135 includes/types/fa.php:1073
+#: includes/types/genericon.php:412
+msgid "Arrow Left"
+msgstr ""
+
+#: includes/types/elusive.php:140 includes/types/fa.php:1078
+#: includes/types/genericon.php:417
+msgid "Arrow Right"
+msgstr ""
+
+#: includes/types/elusive.php:145 includes/types/fa.php:1828
+msgid "Fast Backward"
+msgstr ""
+
+#: includes/types/elusive.php:150 includes/types/fa.php:1873
+msgid "Step Backward"
+msgstr ""
+
+#: includes/types/elusive.php:155 includes/types/fa.php:1808
+msgid "Backward"
+msgstr ""
+
+#: includes/types/elusive.php:170 includes/types/fa.php:1878
+msgid "Step Forward"
+msgstr ""
+
+#: includes/types/elusive.php:175 includes/types/fa.php:1833
+#: includes/types/foundation-icons.php:924 includes/types/genericon.php:342
+msgid "Fast Forward"
+msgstr ""
+
+#: includes/types/elusive.php:190 includes/types/fa.php:1698
+#: includes/types/foundation-icons.php:534 includes/types/genericon.php:657
+msgid "Link"
+msgstr ""
+
+#: includes/types/elusive.php:195 includes/types/fa.php:1123
+#: includes/types/fa.php:1143 includes/types/fa.php:2133
+msgid "Caret Up"
+msgstr ""
+
+#: includes/types/elusive.php:200 includes/types/fa.php:1108
+#: includes/types/fa.php:1128 includes/types/fa.php:2118
+msgid "Caret Down"
+msgstr ""
+
+#: includes/types/elusive.php:205 includes/types/fa.php:1113
+#: includes/types/fa.php:1133 includes/types/fa.php:2123
+msgid "Caret Left"
+msgstr ""
+
+#: includes/types/elusive.php:210 includes/types/fa.php:1118
+#: includes/types/fa.php:1138 includes/types/fa.php:2128
+msgid "Caret Right"
+msgstr ""
+
+#: includes/types/elusive.php:215 includes/types/fa.php:1293
+#: includes/types/fa.php:1298 includes/types/fa.php:2153
+#: includes/types/fa.php:2158 includes/types/fa.php:2163
+#: includes/types/foundation-icons.php:699
+#: includes/types/foundation-icons.php:704
+msgid "Check"
+msgstr ""
+
+#: includes/types/elusive.php:220
+msgid "Check Empty"
+msgstr ""
+
+#: includes/types/elusive.php:225 includes/types/fa.php:1183
+msgid "Chevron Up"
+msgstr ""
+
+#: includes/types/elusive.php:230 includes/types/fa.php:1168
+msgid "Chevron Down"
+msgstr ""
+
+#: includes/types/elusive.php:235 includes/types/fa.php:1173
+msgid "Chevron Left"
+msgstr ""
+
+#: includes/types/elusive.php:240 includes/types/fa.php:1178
+msgid "Chevron Right"
+msgstr ""
+
+#: includes/types/elusive.php:245
+msgid "Circle Arrow Up"
+msgstr ""
+
+#: includes/types/elusive.php:250
+msgid "Circle Arrow Down"
+msgstr ""
+
+#: includes/types/elusive.php:255
+msgid "Circle Arrow Left"
+msgstr ""
+
+#: includes/types/elusive.php:260
+msgid "Circle Arrow Right"
+msgstr ""
+
+#: includes/types/elusive.php:280 includes/types/fa.php:1818
+#: includes/types/foundation-icons.php:959
+msgid "Eject"
+msgstr ""
+
+#: includes/types/elusive.php:285 includes/types/elusive.php:290
+msgid "File New"
+msgstr ""
+
+#: includes/types/elusive.php:295 includes/types/elusive.php:300
+msgid "File Edit"
+msgstr ""
+
+#: includes/types/elusive.php:305
+msgid "Fork"
+msgstr ""
+
+#: includes/types/elusive.php:310 includes/types/genericon.php:497
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/types/elusive.php:315
+msgid "Indent Left"
+msgstr ""
+
+#: includes/types/elusive.php:320
+msgid "Indent Right"
+msgstr ""
+
+#: includes/types/elusive.php:325 includes/types/elusive.php:330
+#: includes/types/fa.php:1708 includes/types/fa.php:1713
+#: includes/types/foundation-icons.php:774
+msgid "List"
+msgstr ""
+
+#: includes/types/elusive.php:355 includes/types/elusive.php:360
+#: includes/types/fa.php:2743
+msgid "Map Marker"
+msgstr ""
+
+#: includes/types/elusive.php:370
+msgid "Minus Sign"
+msgstr ""
+
+#: includes/types/elusive.php:375 includes/types/genericon.php:192
+msgid "Move"
+msgstr ""
+
+#: includes/types/elusive.php:380
+msgid "Off"
+msgstr ""
+
+#: includes/types/elusive.php:385
+msgid "OK"
+msgstr ""
+
+#: includes/types/elusive.php:390
+msgid "OK Circle"
+msgstr ""
+
+#: includes/types/elusive.php:395
+msgid "OK Sign"
+msgstr ""
+
+#: includes/types/elusive.php:420 includes/types/elusive.php:425
+#: includes/types/fa.php:1883 includes/types/fa.php:1888
+#: includes/types/fa.php:1893 includes/types/foundation-icons.php:909
+#: includes/types/genericon.php:337
+msgid "Stop"
+msgstr ""
+
+#: includes/types/elusive.php:435
+msgid "Plus Sign"
+msgstr ""
+
+#: includes/types/elusive.php:440 includes/types/fa.php:2898
+#: includes/types/foundation-icons.php:524 includes/types/genericon.php:207
+msgid "Print"
+msgstr ""
+
+#: includes/types/elusive.php:445 includes/types/fa.php:2913
+#: includes/types/fa.php:2918 includes/types/fa.php:2923
+msgid "Question"
+msgstr ""
+
+#: includes/types/elusive.php:450
+msgid "Question Sign"
+msgstr ""
+
+#: includes/types/elusive.php:455 includes/types/foundation-icons.php:889
+msgid "Record"
+msgstr ""
+
+#: includes/types/elusive.php:460 includes/types/fa.php:1523
+#: includes/types/foundation-icons.php:804 includes/types/genericon.php:227
+msgid "Refresh"
+msgstr ""
+
+#: includes/types/elusive.php:480
+msgid "Resize Vertical"
+msgstr ""
+
+#: includes/types/elusive.php:485
+msgid "Resize Horizontal"
+msgstr ""
+
+#: includes/types/elusive.php:490
+msgid "Resize Full"
+msgstr ""
+
+#: includes/types/elusive.php:495
+msgid "Resize Small"
+msgstr ""
+
+#: includes/types/elusive.php:500
+msgid "Return"
+msgstr ""
+
+#: includes/types/elusive.php:505 includes/types/fa.php:2968
+msgid "Retweet"
+msgstr ""
+
+#: includes/types/elusive.php:510
+msgid "Reverse"
+msgstr ""
+
+#: includes/types/elusive.php:540 includes/types/fa.php:3218
+msgid "Tasks"
+msgstr ""
+
+#: includes/types/elusive.php:545 includes/types/fa.php:1773
+msgid "Text Height"
+msgstr ""
+
+#: includes/types/elusive.php:550 includes/types/fa.php:1778
+msgid "Text Width"
+msgstr ""
+
+#: includes/types/elusive.php:565 includes/types/fa.php:3278
+msgid "Tint"
+msgstr ""
+
+#: includes/types/elusive.php:585
+msgid "View Mode"
+msgstr ""
+
+#: includes/types/elusive.php:590 includes/types/fa.php:3413
+msgid "Volume Up"
+msgstr ""
+
+#: includes/types/elusive.php:595 includes/types/fa.php:3403
+msgid "Volume Down"
+msgstr ""
+
+#: includes/types/elusive.php:600
+msgid "Mute"
+msgstr ""
+
+#: includes/types/elusive.php:605
+msgid "Warning Sign"
+msgstr ""
+
+#: includes/types/elusive.php:610 includes/types/foundation-icons.php:884
+msgid "Zoom In"
+msgstr ""
+
+#: includes/types/elusive.php:615 includes/types/foundation-icons.php:879
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/types/elusive.php:645
+msgid "Adult"
+msgstr ""
+
+#: includes/types/elusive.php:650 includes/types/elusive.php:655
+msgid "Address Book"
+msgstr ""
+
+#: includes/types/elusive.php:660 includes/types/foundation-icons.php:114
+msgid "ASL"
+msgstr ""
+
+#: includes/types/elusive.php:665 includes/types/fa.php:1933
+#: includes/types/foundation-icons.php:974
+msgid "Asterisk"
+msgstr ""
+
+#: includes/types/elusive.php:670
+msgid "Ban Circle"
+msgstr ""
+
+#: includes/types/elusive.php:675 includes/types/fa.php:1953
+msgid "Barcode"
+msgstr ""
+
+#: includes/types/elusive.php:680 includes/types/fa.php:1993
+#: includes/types/fa.php:1998 includes/types/fa.php:2003
+#: includes/types/fa.php:2008
+msgid "Bell"
+msgstr ""
+
+#: includes/types/elusive.php:685 includes/types/fa.php:158
+#: includes/types/foundation-icons.php:119
+msgid "Blind"
+msgstr ""
+
+#: includes/types/elusive.php:695 includes/types/fa.php:163
+#: includes/types/foundation-icons.php:124
+msgid "Braille"
+msgstr ""
+
+#: includes/types/elusive.php:700 includes/types/fa.php:2048
+msgid "Briefcase"
+msgstr ""
+
+#: includes/types/elusive.php:705
+msgid "Broom"
+msgstr ""
+
+#: includes/types/elusive.php:710
+msgid "Brush"
+msgstr ""
+
+#: includes/types/elusive.php:715
+msgid "Bulb"
+msgstr ""
+
+#: includes/types/elusive.php:720 includes/types/fa.php:2068
+msgid "Bullhorn"
+msgstr ""
+
+#: includes/types/elusive.php:730
+msgid "Calendar Sign"
+msgstr ""
+
+#: includes/types/elusive.php:740 includes/types/fa.php:1548
+msgid "Car"
+msgstr ""
+
+#: includes/types/elusive.php:745
+msgid "CC"
+msgstr ""
+
+#: includes/types/elusive.php:750 includes/types/fa.php:2148
+msgid "Certificate"
+msgstr ""
+
+#: includes/types/elusive.php:755 includes/types/fa.php:2168
+msgid "Child"
+msgstr ""
+
+#: includes/types/elusive.php:760 includes/types/elusive.php:765
+#: includes/types/fa.php:1518 includes/types/genericon.php:452
+msgid "Cog"
+msgstr ""
+
+#: includes/types/elusive.php:770 includes/types/fa.php:2218
+msgid "Cogs"
+msgstr ""
+
+#: includes/types/elusive.php:775 includes/types/elusive.php:780
+#: includes/types/fa.php:2223 includes/types/fa.php:2228
+#: includes/types/foundation-icons.php:614 includes/types/genericon.php:352
+msgid "Comment"
+msgstr ""
+
+#: includes/types/elusive.php:785 includes/types/elusive.php:790
+#: includes/types/fa.php:2253 includes/types/foundation-icons.php:234
+msgid "Compass"
+msgstr ""
+
+#: includes/types/elusive.php:795 includes/types/fa.php:1458
+#: includes/types/fa.php:1463 includes/types/fa.php:2263
+#: includes/types/foundation-icons.php:339
+msgid "Credit Card"
+msgstr ""
+
+#: includes/types/elusive.php:805 includes/types/elusive.php:810
+#: includes/types/fa.php:2338 includes/types/fa.php:2343
+#: includes/types/fa.php:2348
+msgid "Envelope"
+msgstr ""
+
+#: includes/types/elusive.php:815 includes/types/elusive.php:820
+msgid "Error"
+msgstr ""
+
+#: includes/types/elusive.php:825
+msgid "Exclamation Sign"
+msgstr ""
+
+#: includes/types/elusive.php:830
+msgid "Eye Close"
+msgstr ""
+
+#: includes/types/elusive.php:835
+msgid "Eye Open"
+msgstr ""
+
+#: includes/types/elusive.php:840 includes/types/fa.php:2728
+#: includes/types/foundation-icons.php:154
+msgid "Male"
+msgstr ""
+
+#: includes/types/elusive.php:845 includes/types/fa.php:2408
+#: includes/types/foundation-icons.php:159
+msgid "Female"
+msgstr ""
+
+#: includes/types/elusive.php:850 includes/types/elusive.php:855
+#: includes/types/fa.php:1228 includes/types/fa.php:1233
+#: includes/types/foundation-icons.php:554
+msgid "File"
+msgstr ""
+
+#: includes/types/elusive.php:860 includes/types/fa.php:2413
+msgid "Film"
+msgstr ""
+
+#: includes/types/elusive.php:870 includes/types/fa.php:2423
+msgid "Fire"
+msgstr ""
+
+#: includes/types/elusive.php:885 includes/types/fa.php:2458
+#: includes/types/fa.php:2468 includes/types/foundation-icons.php:649
+msgid "Folder"
+msgstr ""
+
+#: includes/types/elusive.php:890 includes/types/fa.php:2463
+#: includes/types/fa.php:2473
+msgid "Folder Open"
+msgstr ""
+
+#: includes/types/elusive.php:895
+msgid "Folder Close"
+msgstr ""
+
+#: includes/types/elusive.php:900
+msgid "Folder Sign"
+msgstr ""
+
+#: includes/types/elusive.php:905 includes/types/fa.php:1673
+msgid "Font"
+msgstr ""
+
+#: includes/types/elusive.php:910
+msgid "Font Size"
+msgstr ""
+
+#: includes/types/elusive.php:915 includes/types/fa.php:2508
+msgid "Gift"
+msgstr ""
+
+#: includes/types/elusive.php:920 includes/types/fa.php:2513
+msgid "Glass"
+msgstr ""
+
+#: includes/types/elusive.php:925
+msgid "Glasses"
+msgstr ""
+
+#: includes/types/elusive.php:930 includes/types/elusive.php:935
+#: includes/types/fa.php:2518
+msgid "Globe"
+msgstr ""
+
+#: includes/types/elusive.php:940 includes/types/elusive.php:945
+msgid "Graph"
+msgstr ""
+
+#: includes/types/elusive.php:950 includes/types/elusive.php:955
+#: includes/types/fa.php:2528
+msgid "Group"
+msgstr ""
+
+#: includes/types/elusive.php:960 includes/types/foundation-icons.php:139
+msgid "Guide Dog"
+msgstr ""
+
+#: includes/types/elusive.php:965 includes/types/fa.php:1203
+msgid "Hand Up"
+msgstr ""
+
+#: includes/types/elusive.php:970 includes/types/fa.php:1188
+msgid "Hand Down"
+msgstr ""
+
+#: includes/types/elusive.php:975 includes/types/fa.php:1193
+msgid "Hand Left"
+msgstr ""
+
+#: includes/types/elusive.php:980 includes/types/fa.php:1198
+msgid "Hand Right"
+msgstr ""
+
+#: includes/types/elusive.php:985 includes/types/fa.php:2568
+msgid "HDD"
+msgstr ""
+
+#: includes/types/elusive.php:990 includes/types/fa.php:2578
+msgid "Headphones"
+msgstr ""
+
+#: includes/types/elusive.php:995
+msgid "Hearing Impaired"
+msgstr ""
+
+#: includes/types/elusive.php:1000 includes/types/elusive.php:1005
+#: includes/types/fa.php:1413 includes/types/fa.php:1418
+#: includes/types/foundation-icons.php:669 includes/types/genericon.php:507
+msgid "Heart"
+msgstr ""
+
+#: includes/types/elusive.php:1010
+msgid "Heart Empty"
+msgstr ""
+
+#: includes/types/elusive.php:1015 includes/types/fa.php:2588
+#: includes/types/fa.php:2593 includes/types/fa.php:2598
+#: includes/types/fa.php:2603 includes/types/fa.php:2608
+msgid "Hourglass"
+msgstr ""
+
+#: includes/types/elusive.php:1020 includes/types/elusive.php:1025
+msgid "Idea"
+msgstr ""
+
+#: includes/types/elusive.php:1030 includes/types/elusive.php:1035
+#: includes/types/elusive.php:1040 includes/types/fa.php:2618
+msgid "Inbox"
+msgstr ""
+
+#: includes/types/elusive.php:1050 includes/types/fa.php:2638
+#: includes/types/foundation-icons.php:1079 includes/types/genericon.php:512
+msgid "Key"
+msgstr ""
+
+#: includes/types/elusive.php:1055 includes/types/elusive.php:1060
+#: includes/types/fa.php:2653 includes/types/foundation-icons.php:239
+msgid "Laptop"
+msgstr ""
+
+#: includes/types/elusive.php:1065 includes/types/fa.php:2658
+msgid "Leaf"
+msgstr ""
+
+#: includes/types/elusive.php:1070
+msgid "Lines"
+msgstr ""
+
+#: includes/types/elusive.php:1075 includes/types/fa.php:2703
+msgid "Magic"
+msgstr ""
+
+#: includes/types/elusive.php:1080 includes/types/fa.php:2708
+msgid "Magnet"
+msgstr ""
+
+#: includes/types/elusive.php:1085
+msgid "Mic"
+msgstr ""
+
+#: includes/types/elusive.php:1090 includes/types/fa.php:2803
+#: includes/types/foundation-icons.php:1099
+msgid "Music"
+msgstr ""
+
+#: includes/types/elusive.php:1095 includes/types/elusive.php:1100
+msgid "Paper Clip"
+msgstr ""
+
+#: includes/types/elusive.php:1105 includes/types/elusive.php:1110
+#: includes/types/fa.php:2843 includes/types/fa.php:2848
+#: includes/types/fa.php:2853 includes/types/foundation-icons.php:814
+msgid "Pencil"
+msgstr ""
+
+#: includes/types/elusive.php:1115
+msgid "Person"
+msgstr ""
+
+#: includes/types/elusive.php:1130 includes/types/elusive.php:1135
+#: includes/types/foundation-icons.php:519
+msgid "Photo"
+msgstr ""
+
+#: includes/types/elusive.php:1140 includes/types/fa.php:2873
+#: includes/types/genericon.php:547
+msgid "Picture"
+msgstr ""
+
+#: includes/types/elusive.php:1145 includes/types/fa.php:1563
+msgid "Plane"
+msgstr ""
+
+#: includes/types/elusive.php:1150
+msgid "Podcast"
+msgstr ""
+
+#: includes/types/elusive.php:1155 includes/types/foundation-icons.php:1134
+msgid "Puzzle"
+msgstr ""
+
+#: includes/types/elusive.php:1160 includes/types/fa.php:2908
+msgid "QR Code"
+msgstr ""
+
+#: includes/types/elusive.php:1165 includes/types/elusive.php:1170
+msgid "Quotes"
+msgstr ""
+
+#: includes/types/elusive.php:1175 includes/types/fa.php:2938
+msgid "Random"
+msgstr ""
+
+#: includes/types/elusive.php:1180
+msgid "Scissors"
+msgstr ""
+
+#: includes/types/elusive.php:1185 includes/types/elusive.php:1190
+msgid "Screen"
+msgstr ""
+
+#: includes/types/elusive.php:1195
+msgid "Screenshot"
+msgstr ""
+
+#: includes/types/elusive.php:1200 includes/types/fa.php:3038
+#: includes/types/foundation-icons.php:369
+msgid "Shopping Cart"
+msgstr ""
+
+#: includes/types/elusive.php:1205
+msgid "Shopping Cart Sign"
+msgstr ""
+
+#: includes/types/elusive.php:1210 includes/types/fa.php:3063
+msgid "Signal"
+msgstr ""
+
+#: includes/types/elusive.php:1225
+msgid "Speaker"
+msgstr ""
+
+#: includes/types/elusive.php:1230 includes/types/fa.php:3373
+#: includes/types/genericon.php:377
+msgid "User"
+msgstr ""
+
+#: includes/types/elusive.php:1235 includes/types/foundation-icons.php:854
+msgid "Thumbnails"
+msgstr ""
+
+#: includes/types/elusive.php:1240
+msgid "Thumbnails (Large)"
+msgstr ""
+
+#: includes/types/elusive.php:1245
+msgid "Thumbnails (List)"
+msgstr ""
+
+#: includes/types/elusive.php:1250 includes/types/elusive.php:1255
+#: includes/types/genericon.php:372
+msgid "Time"
+msgstr ""
+
+#: includes/types/elusive.php:1260 includes/types/foundation-icons.php:1179
+msgid "Torso"
+msgstr ""
+
+#: includes/types/elusive.php:1265 includes/types/fa.php:1603
+#: includes/types/fa.php:1608 includes/types/foundation-icons.php:179
+msgid "Wheelchair"
+msgstr ""
+
+#: includes/types/elusive.php:1270 includes/types/elusive.php:1275
+#: includes/types/fa.php:3428 includes/types/foundation-icons.php:874
+msgid "Wrench"
+msgstr ""
+
+#: includes/types/elusive.php:1280 includes/types/fa.php:188
+#: includes/types/foundation-icons.php:149
+msgid "Universal Access"
+msgstr ""
+
+#: includes/types/elusive.php:1285 includes/types/fa.php:2033
+#: includes/types/fa.php:2038 includes/types/foundation-icons.php:594
+#: includes/types/foundation-icons.php:1004
+msgid "Bookmark"
+msgstr ""
+
+#: includes/types/elusive.php:1290
+msgid "Bookmark Empty"
+msgstr ""
+
+#: includes/types/elusive.php:1310
+msgid "Home (iPhone)"
+msgstr ""
+
+#: includes/types/elusive.php:1320 includes/types/fa.php:3213
+msgid "Tags"
+msgstr ""
+
+#: includes/types/elusive.php:1325 includes/types/elusive.php:1330
+#: includes/types/genericon.php:617
+msgid "Website"
+msgstr ""
+
+#: includes/types/elusive.php:1445
+msgid "Open Source"
+msgstr ""
+
+#: includes/types/fa.php:60 includes/types/foundation-icons.php:48
+msgid "Accessibility"
+msgstr ""
+
+#: includes/types/fa.php:64
+msgid "Brand"
+msgstr ""
+
+#: includes/types/fa.php:68
+msgid "Charts"
+msgstr ""
+
+#: includes/types/fa.php:76
+msgid "Directional"
+msgstr ""
+
+#: includes/types/fa.php:80 includes/types/foundation-icons.php:68
+msgid "File Types"
+msgstr ""
+
+#: includes/types/fa.php:84
+msgid "Form Controls"
+msgstr ""
+
+#: includes/types/fa.php:88
+msgid "Genders"
+msgstr ""
+
+#: includes/types/fa.php:92
+msgid "Medical"
+msgstr ""
+
+#: includes/types/fa.php:96
+msgid "Payment"
+msgstr ""
+
+#: includes/types/fa.php:100
+msgid "Spinners"
+msgstr ""
+
+#: includes/types/fa.php:104
+msgid "Transportation"
+msgstr ""
+
+#: includes/types/fa.php:112
+msgid "Video Player"
+msgstr ""
+
+#: includes/types/fa.php:116
+msgid "Web Application"
+msgstr ""
+
+#: includes/types/fa.php:143
+msgid "American Sign Language"
+msgstr ""
+
+#: includes/types/fa.php:148
+msgid "Audio Description"
+msgstr ""
+
+#: includes/types/fa.php:153
+msgid "Assistive Listening Systems"
+msgstr ""
+
+#: includes/types/fa.php:168
+msgid "Deaf"
+msgstr ""
+
+#: includes/types/fa.php:173
+msgid "Low Vision"
+msgstr ""
+
+#: includes/types/fa.php:178
+msgid "Phone Volume Control"
+msgstr ""
+
+#: includes/types/fa.php:183
+msgid "Sign Language"
+msgstr ""
+
+#: includes/types/fa.php:903
+msgid "Area Chart"
+msgstr ""
+
+#: includes/types/fa.php:908
+msgid "Bar Chart"
+msgstr ""
+
+#: includes/types/fa.php:913
+msgid "Line Chart"
+msgstr ""
+
+#: includes/types/fa.php:918
+msgid "Pie Chart"
+msgstr ""
+
+#: includes/types/fa.php:923 includes/types/foundation-icons.php:294
+#: includes/types/foundation-icons.php:299
+msgid "Bitcoin"
+msgstr ""
+
+#: includes/types/fa.php:928 includes/types/foundation-icons.php:304
+msgid "Dollar"
+msgstr ""
+
+#: includes/types/fa.php:933
+msgid "Euro"
+msgstr ""
+
+#: includes/types/fa.php:938 includes/types/fa.php:943
+msgid "GBP"
+msgstr ""
+
+#: includes/types/fa.php:948
+msgid "GG"
+msgstr ""
+
+#: includes/types/fa.php:953
+msgid "Israeli Sheqel"
+msgstr ""
+
+#: includes/types/fa.php:963
+msgid "Rouble"
+msgstr ""
+
+#: includes/types/fa.php:968
+msgid "Rupee"
+msgstr ""
+
+#: includes/types/fa.php:973
+msgid "Turkish Lira"
+msgstr ""
+
+#: includes/types/fa.php:978
+msgid "Won"
+msgstr ""
+
+#: includes/types/fa.php:983 includes/types/foundation-icons.php:319
+msgid "Yen"
+msgstr ""
+
+#: includes/types/fa.php:988
+msgid "Angle Down"
+msgstr ""
+
+#: includes/types/fa.php:993
+msgid "Angle Left"
+msgstr ""
+
+#: includes/types/fa.php:998
+msgid "Angle Right"
+msgstr ""
+
+#: includes/types/fa.php:1003
+msgid "Angle Up"
+msgstr ""
+
+#: includes/types/fa.php:1008
+msgid "Angle Double Down"
+msgstr ""
+
+#: includes/types/fa.php:1013
+msgid "Angle Double Left"
+msgstr ""
+
+#: includes/types/fa.php:1018
+msgid "Angle Double Right"
+msgstr ""
+
+#: includes/types/fa.php:1023
+msgid "Angle Double Up"
+msgstr ""
+
+#: includes/types/fa.php:1028 includes/types/fa.php:1048
+msgid "Arrow Circle Down"
+msgstr ""
+
+#: includes/types/fa.php:1033 includes/types/fa.php:1053
+msgid "Arrow Circle Left"
+msgstr ""
+
+#: includes/types/fa.php:1038 includes/types/fa.php:1058
+msgid "Arrow Circle Right"
+msgstr ""
+
+#: includes/types/fa.php:1043 includes/types/fa.php:1063
+msgid "Arrow Circle Up"
+msgstr ""
+
+#: includes/types/fa.php:1088 includes/types/fa.php:1093
+#: includes/types/fa.php:1098 includes/types/fa.php:1103
+#: includes/types/fa.php:1803 includes/types/fa.php:1918
+#: includes/types/fa.php:1923 includes/types/fa.php:1928
+#: includes/types/foundation-icons.php:52
+msgid "Arrows"
+msgstr ""
+
+#: includes/types/fa.php:1148
+msgid "Chevron Circle Down"
+msgstr ""
+
+#: includes/types/fa.php:1153
+msgid "Chevron Circle Left"
+msgstr ""
+
+#: includes/types/fa.php:1158
+msgid "Chevron Circle Right"
+msgstr ""
+
+#: includes/types/fa.php:1163
+msgid "Chevron Circle Up"
+msgstr ""
+
+#: includes/types/fa.php:1208
+msgid "Long Arrow Down"
+msgstr ""
+
+#: includes/types/fa.php:1213
+msgid "Long Arrow Left"
+msgstr ""
+
+#: includes/types/fa.php:1218
+msgid "Long Arrow Right"
+msgstr ""
+
+#: includes/types/fa.php:1223
+msgid "Long Arrow Up"
+msgstr ""
+
+#: includes/types/fa.php:1238 includes/types/fa.php:1243
+msgid "File: Text"
+msgstr ""
+
+#: includes/types/fa.php:1248
+msgid "File: Archive"
+msgstr ""
+
+#: includes/types/fa.php:1253
+msgid "File: Audio"
+msgstr ""
+
+#: includes/types/fa.php:1258
+msgid "File: Code"
+msgstr ""
+
+#: includes/types/fa.php:1263
+msgid "File: Excel"
+msgstr ""
+
+#: includes/types/fa.php:1268
+msgid "File: Image"
+msgstr ""
+
+#: includes/types/fa.php:1273
+msgid "File: PDF"
+msgstr ""
+
+#: includes/types/fa.php:1278
+msgid "File: Powerpoint"
+msgstr ""
+
+#: includes/types/fa.php:1283
+msgid "File: Video"
+msgstr ""
+
+#: includes/types/fa.php:1288
+msgid "File: Word"
+msgstr ""
+
+#: includes/types/fa.php:1303 includes/types/fa.php:1308
+#: includes/types/fa.php:1513 includes/types/fa.php:2173
+msgid "Circle"
+msgstr ""
+
+#: includes/types/fa.php:1313 includes/types/genericon.php:462
+msgid "Dot"
+msgstr ""
+
+#: includes/types/fa.php:1338 includes/types/fa.php:1343
+msgid "Square"
+msgstr ""
+
+#: includes/types/fa.php:1348
+msgid "Genderless"
+msgstr ""
+
+#: includes/types/fa.php:1353 includes/types/fa.php:1358
+#: includes/types/fa.php:1363 includes/types/fa.php:1368
+#: includes/types/fa.php:1373
+msgid "Mars"
+msgstr ""
+
+#: includes/types/fa.php:1378
+msgid "Mercury"
+msgstr ""
+
+#: includes/types/fa.php:1383
+msgid "Neuter"
+msgstr ""
+
+#: includes/types/fa.php:1388 includes/types/fa.php:1393
+msgid "Transgender"
+msgstr ""
+
+#: includes/types/fa.php:1398 includes/types/fa.php:1403
+msgid "Venus"
+msgstr ""
+
+#: includes/types/fa.php:1408
+msgid "Venus + Mars"
+msgstr ""
+
+#: includes/types/fa.php:1423
+msgid "Heartbeat"
+msgstr ""
+
+#: includes/types/fa.php:1428 includes/types/fa.php:1433
+msgid "Hospital"
+msgstr ""
+
+#: includes/types/fa.php:1438
+msgid "Medkit"
+msgstr ""
+
+#: includes/types/fa.php:1443
+msgid "Stethoscope"
+msgstr ""
+
+#: includes/types/fa.php:1448
+msgid "User MD"
+msgstr ""
+
+#: includes/types/fa.php:1528
+msgid "Spinner"
+msgstr ""
+
+#: includes/types/fa.php:1533
+msgid "Ambulance"
+msgstr ""
+
+#: includes/types/fa.php:1538
+msgid "Bicycle"
+msgstr ""
+
+#: includes/types/fa.php:1543
+msgid "Bus"
+msgstr ""
+
+#: includes/types/fa.php:1553
+msgid "Fighter Jet"
+msgstr ""
+
+#: includes/types/fa.php:1558
+msgid "Motorcycle"
+msgstr ""
+
+#: includes/types/fa.php:1568
+msgid "Rocket"
+msgstr ""
+
+#: includes/types/fa.php:1573
+msgid "Ship"
+msgstr ""
+
+#: includes/types/fa.php:1578
+msgid "Space Shuttle"
+msgstr ""
+
+#: includes/types/fa.php:1583
+msgid "Subway"
+msgstr ""
+
+#: includes/types/fa.php:1588
+msgid "Taxi"
+msgstr ""
+
+#: includes/types/fa.php:1593
+msgid "Train"
+msgstr ""
+
+#: includes/types/fa.php:1598
+msgid "Truck"
+msgstr ""
+
+#: includes/types/fa.php:1638 includes/types/foundation-icons.php:1009
+msgid "Clipboard"
+msgstr ""
+
+#: includes/types/fa.php:1643
+msgid "Columns"
+msgstr ""
+
+#: includes/types/fa.php:1648
+msgid "Copy"
+msgstr ""
+
+#: includes/types/fa.php:1653
+msgid "Cut"
+msgstr ""
+
+#: includes/types/fa.php:1658
+msgid "Paste"
+msgstr ""
+
+#: includes/types/fa.php:1663 includes/types/fa.php:2353
+msgid "Eraser"
+msgstr ""
+
+#: includes/types/fa.php:1668
+msgid "Files"
+msgstr ""
+
+#: includes/types/fa.php:1678
+msgid "Header"
+msgstr ""
+
+#: includes/types/fa.php:1728 includes/types/foundation-icons.php:809
+msgid "Paperclip"
+msgstr ""
+
+#: includes/types/fa.php:1733
+msgid "Paragraph"
+msgstr ""
+
+#: includes/types/fa.php:1748 includes/types/foundation-icons.php:529
+msgid "Save"
+msgstr ""
+
+#: includes/types/fa.php:1758 includes/types/foundation-icons.php:409
+msgid "Subscript"
+msgstr ""
+
+#: includes/types/fa.php:1763 includes/types/foundation-icons.php:404
+msgid "Superscript"
+msgstr ""
+
+#: includes/types/fa.php:1768
+msgid "Table"
+msgstr ""
+
+#: includes/types/fa.php:1783
+msgid "Table Header"
+msgstr ""
+
+#: includes/types/fa.php:1788
+msgid "TH Large"
+msgstr ""
+
+#: includes/types/fa.php:1793
+msgid "TH List"
+msgstr ""
+
+#: includes/types/fa.php:1813
+msgid "Compress"
+msgstr ""
+
+#: includes/types/fa.php:1823 includes/types/genericon.php:142
+msgid "Expand"
+msgstr ""
+
+#: includes/types/fa.php:1898
+msgid "YouTube Play"
+msgstr ""
+
+#: includes/types/fa.php:1908 includes/types/foundation-icons.php:969
+#: includes/types/genericon.php:672
+msgid "Anchor"
+msgstr ""
+
+#: includes/types/fa.php:1938
+msgid "At"
+msgstr ""
+
+#: includes/types/fa.php:1943
+msgid "Balance"
+msgstr ""
+
+#: includes/types/fa.php:1948
+msgid "Ban"
+msgstr ""
+
+#: includes/types/fa.php:1958
+msgid "Bars"
+msgstr ""
+
+#: includes/types/fa.php:1963 includes/types/fa.php:1968
+#: includes/types/fa.php:1973 includes/types/fa.php:1978
+msgid "Battery"
+msgstr ""
+
+#: includes/types/fa.php:1983
+msgid "Bed"
+msgstr ""
+
+#: includes/types/fa.php:1988
+msgid "Beer"
+msgstr ""
+
+#: includes/types/fa.php:2013
+msgid "Binoculars"
+msgstr ""
+
+#: includes/types/fa.php:2018
+msgid "Birthday Cake"
+msgstr ""
+
+#: includes/types/fa.php:2023
+msgid "Bolt"
+msgstr ""
+
+#: includes/types/fa.php:2043
+msgid "Bomb"
+msgstr ""
+
+#: includes/types/fa.php:2053 includes/types/genericon.php:427
+msgid "Bug"
+msgstr ""
+
+#: includes/types/fa.php:2073
+msgid "Bullseye"
+msgstr ""
+
+#: includes/types/fa.php:2078
+msgid "Calculator"
+msgstr ""
+
+#: includes/types/fa.php:2113
+msgid "Camera Retro"
+msgstr ""
+
+#: includes/types/fa.php:2138
+msgid "Cart Arrow Down"
+msgstr ""
+
+#: includes/types/fa.php:2143
+msgid "Cart Plus"
+msgstr ""
+
+#: includes/types/fa.php:2183
+msgid "Clone"
+msgstr ""
+
+#: includes/types/fa.php:2193 includes/types/genericon.php:442
+msgid "Cloud Download"
+msgstr ""
+
+#: includes/types/fa.php:2198 includes/types/genericon.php:447
+msgid "Cloud Upload"
+msgstr ""
+
+#: includes/types/fa.php:2208
+msgid "Code Fork"
+msgstr ""
+
+#: includes/types/fa.php:2213
+msgid "Coffee"
+msgstr ""
+
+#: includes/types/fa.php:2243 includes/types/fa.php:2248
+msgid "Commenting"
+msgstr ""
+
+#: includes/types/fa.php:2258
+msgid "Copyright"
+msgstr ""
+
+#: includes/types/fa.php:2273
+msgid "Crosshairs"
+msgstr ""
+
+#: includes/types/fa.php:2278
+msgid "Cube"
+msgstr ""
+
+#: includes/types/fa.php:2283
+msgid "Cubes"
+msgstr ""
+
+#: includes/types/fa.php:2288
+msgid "Cursor"
+msgstr ""
+
+#: includes/types/fa.php:2293
+msgid "Cutlery"
+msgstr ""
+
+#: includes/types/fa.php:2303 includes/types/foundation-icons.php:644
+msgid "Database"
+msgstr ""
+
+#: includes/types/fa.php:2313
+msgid "Diamond"
+msgstr ""
+
+#: includes/types/fa.php:2328 includes/types/fa.php:2333
+#: includes/types/genericon.php:477
+msgid "Ellipsis"
+msgstr ""
+
+#: includes/types/fa.php:2358
+msgid "Exchange"
+msgstr ""
+
+#: includes/types/fa.php:2363 includes/types/fa.php:2368
+#: includes/types/fa.php:2373
+msgid "Exclamation"
+msgstr ""
+
+#: includes/types/fa.php:2378 includes/types/fa.php:2383
+msgid "External Link"
+msgstr ""
+
+#: includes/types/fa.php:2388 includes/types/fa.php:2393
+#: includes/types/foundation-icons.php:664
+msgid "Eye"
+msgstr ""
+
+#: includes/types/fa.php:2398
+msgid "Eye Dropper"
+msgstr ""
+
+#: includes/types/fa.php:2403
+msgid "Fax"
+msgstr ""
+
+#: includes/types/fa.php:2428
+msgid "Fire Extinguisher"
+msgstr ""
+
+#: includes/types/fa.php:2448
+msgid "Flash"
+msgstr ""
+
+#: includes/types/fa.php:2453
+msgid "Flask"
+msgstr ""
+
+#: includes/types/fa.php:2478
+msgid "Foot Ball"
+msgstr ""
+
+#: includes/types/fa.php:2483
+msgid "Frown"
+msgstr ""
+
+#: includes/types/fa.php:2488
+msgid "Gamepad"
+msgstr ""
+
+#: includes/types/fa.php:2493
+msgid "Gavel"
+msgstr ""
+
+#: includes/types/fa.php:2498
+msgid "Gear"
+msgstr ""
+
+#: includes/types/fa.php:2503
+msgid "Gears"
+msgstr ""
+
+#: includes/types/fa.php:2523
+msgid "Graduation Cap"
+msgstr ""
+
+#: includes/types/fa.php:2533 includes/types/fa.php:2538
+#: includes/types/fa.php:2543 includes/types/fa.php:2548
+#: includes/types/fa.php:2553 includes/types/fa.php:2558
+#: includes/types/fa.php:2563
+msgid "Hand"
+msgstr ""
+
+#: includes/types/fa.php:2573
+msgid "Hash Tag"
+msgstr ""
+
+#: includes/types/fa.php:2613
+msgid "History"
+msgstr ""
+
+#: includes/types/fa.php:2623
+msgid "Industry"
+msgstr ""
+
+#: includes/types/fa.php:2643
+msgid "Keyboard"
+msgstr ""
+
+#: includes/types/fa.php:2648
+msgid "Language"
+msgstr ""
+
+#: includes/types/fa.php:2663
+msgid "Legal"
+msgstr ""
+
+#: includes/types/fa.php:2668
+msgid "Lemon"
+msgstr ""
+
+#: includes/types/fa.php:2673
+msgid "Level Down"
+msgstr ""
+
+#: includes/types/fa.php:2678
+msgid "Level Up"
+msgstr ""
+
+#: includes/types/fa.php:2683
+msgid "Life Buoy"
+msgstr ""
+
+#: includes/types/fa.php:2693
+msgid "Location Arrow"
+msgstr ""
+
+#: includes/types/fa.php:2713
+msgid "Mail Forward"
+msgstr ""
+
+#: includes/types/fa.php:2718
+msgid "Mail Reply"
+msgstr ""
+
+#: includes/types/fa.php:2723
+msgid "Mail Reply All"
+msgstr ""
+
+#: includes/types/fa.php:2733 includes/types/fa.php:2738
+#: includes/types/foundation-icons.php:1089
+msgid "Map"
+msgstr ""
+
+#: includes/types/fa.php:2748
+msgid "Map Pin"
+msgstr ""
+
+#: includes/types/fa.php:2753
+msgid "Map Signs"
+msgstr ""
+
+#: includes/types/fa.php:2758
+msgid "Meh"
+msgstr ""
+
+#: includes/types/fa.php:2763 includes/types/fa.php:2768
+#: includes/types/foundation-icons.php:249 includes/types/genericon.php:527
+msgid "Microphone"
+msgstr ""
+
+#: includes/types/fa.php:2783 includes/types/foundation-icons.php:254
+msgid "Mobile"
+msgstr ""
+
+#: includes/types/fa.php:2788
+msgid "Mobile Phone"
+msgstr ""
+
+#: includes/types/fa.php:2793
+msgid "Moon"
+msgstr ""
+
+#: includes/types/fa.php:2798
+msgid "Mouse Pointer"
+msgstr ""
+
+#: includes/types/fa.php:2808
+msgid "Newspaper"
+msgstr ""
+
+#: includes/types/fa.php:2813
+msgid "Object Group"
+msgstr ""
+
+#: includes/types/fa.php:2818
+msgid "Object Ungroup"
+msgstr ""
+
+#: includes/types/fa.php:2823 includes/types/genericon.php:537
+msgid "Paint Brush"
+msgstr ""
+
+#: includes/types/fa.php:2828 includes/types/fa.php:2833
+msgid "Paper Plane"
+msgstr ""
+
+#: includes/types/fa.php:2838 includes/types/foundation-icons.php:1114
+msgid "Paw"
+msgstr ""
+
+#: includes/types/fa.php:2863
+msgid "Percent"
+msgstr ""
+
+#: includes/types/fa.php:2878
+msgid "Plug"
+msgstr ""
+
+#: includes/types/fa.php:2893
+msgid "Power Off"
+msgstr ""
+
+#: includes/types/fa.php:2903
+msgid "Puzzle Piece"
+msgstr ""
+
+#: includes/types/fa.php:2928
+msgid "Quote Left"
+msgstr ""
+
+#: includes/types/fa.php:2933
+msgid "Quote Right"
+msgstr ""
+
+#: includes/types/fa.php:2943
+msgid "Rebel"
+msgstr ""
+
+#: includes/types/fa.php:2948
+msgid "Recycle"
+msgstr ""
+
+#: includes/types/fa.php:2953
+msgid "Registered"
+msgstr ""
+
+#: includes/types/fa.php:2958 includes/types/genericon.php:232
+msgid "Reply"
+msgstr ""
+
+#: includes/types/fa.php:2963
+msgid "Reply All"
+msgstr ""
+
+#: includes/types/fa.php:2973
+msgid "Road"
+msgstr ""
+
+#: includes/types/fa.php:2983
+msgid "RSS Square"
+msgstr ""
+
+#: includes/types/fa.php:2993
+msgid "Search Minus"
+msgstr ""
+
+#: includes/types/fa.php:2998
+msgid "Search Plus"
+msgstr ""
+
+#: includes/types/fa.php:3003
+msgid "Server"
+msgstr ""
+
+#: includes/types/fa.php:3043 includes/types/foundation-icons.php:364
+msgid "Shopping Bag"
+msgstr ""
+
+#: includes/types/fa.php:3048
+msgid "Shopping Basket"
+msgstr ""
+
+#: includes/types/fa.php:3053
+msgid "Sign In"
+msgstr ""
+
+#: includes/types/fa.php:3058
+msgid "Sign Out"
+msgstr ""
+
+#: includes/types/fa.php:3068 includes/types/genericon.php:612
+msgid "Sitemap"
+msgstr ""
+
+#: includes/types/fa.php:3073
+msgid "Sliders"
+msgstr ""
+
+#: includes/types/fa.php:3078
+msgid "Smile"
+msgstr ""
+
+#: includes/types/fa.php:3088
+msgid "Sort ASC"
+msgstr ""
+
+#: includes/types/fa.php:3093
+msgid "Sort DESC"
+msgstr ""
+
+#: includes/types/fa.php:3098
+msgid "Sort Down"
+msgstr ""
+
+#: includes/types/fa.php:3103
+msgid "Sort Up"
+msgstr ""
+
+#: includes/types/fa.php:3108
+msgid "Sort Alpha ASC"
+msgstr ""
+
+#: includes/types/fa.php:3113
+msgid "Sort Alpha DESC"
+msgstr ""
+
+#: includes/types/fa.php:3118
+msgid "Sort Amount ASC"
+msgstr ""
+
+#: includes/types/fa.php:3123
+msgid "Sort Amount DESC"
+msgstr ""
+
+#: includes/types/fa.php:3128
+msgid "Sort Numeric ASC"
+msgstr ""
+
+#: includes/types/fa.php:3133
+msgid "Sort Numeric DESC"
+msgstr ""
+
+#: includes/types/fa.php:3138
+msgid "Spoon"
+msgstr ""
+
+#: includes/types/fa.php:3143 includes/types/fa.php:3168
+#: includes/types/foundation-icons.php:849 includes/types/genericon.php:562
+msgid "Star"
+msgstr ""
+
+#: includes/types/fa.php:3148 includes/types/fa.php:3153
+msgid "Star Half"
+msgstr ""
+
+#: includes/types/fa.php:3158
+msgid "Star Half Empty"
+msgstr ""
+
+#: includes/types/fa.php:3163
+msgid "Star Half Full"
+msgstr ""
+
+#: includes/types/fa.php:3173 includes/types/fa.php:3178
+msgid "Sticky Note"
+msgstr ""
+
+#: includes/types/fa.php:3183
+msgid "Street View"
+msgstr ""
+
+#: includes/types/fa.php:3188
+msgid "Suitcase"
+msgstr ""
+
+#: includes/types/fa.php:3193
+msgid "Sun"
+msgstr ""
+
+#: includes/types/fa.php:3203
+msgid "Tachometer"
+msgstr ""
+
+#: includes/types/fa.php:3223
+msgid "Television"
+msgstr ""
+
+#: includes/types/fa.php:3228
+msgid "Terminal"
+msgstr ""
+
+#: includes/types/fa.php:3233
+msgid "Thumb Tack"
+msgstr ""
+
+#: includes/types/fa.php:3258 includes/types/foundation-icons.php:1164
+msgid "Ticket"
+msgstr ""
+
+#: includes/types/fa.php:3263 includes/types/fa.php:3268
+#: includes/types/fa.php:3273
+msgid "Times"
+msgstr ""
+
+#: includes/types/fa.php:3283
+msgid "Toggle Down"
+msgstr ""
+
+#: includes/types/fa.php:3288
+msgid "Toggle Left"
+msgstr ""
+
+#: includes/types/fa.php:3293
+msgid "Toggle Right"
+msgstr ""
+
+#: includes/types/fa.php:3298
+msgid "Toggle Up"
+msgstr ""
+
+#: includes/types/fa.php:3303
+msgid "Toggle Off"
+msgstr ""
+
+#: includes/types/fa.php:3308
+msgid "Toggle On"
+msgstr ""
+
+#: includes/types/fa.php:3313
+msgid "Trademark"
+msgstr ""
+
+#: includes/types/fa.php:3328
+msgid "Tree"
+msgstr ""
+
+#: includes/types/fa.php:3333 includes/types/foundation-icons.php:1174
+msgid "Trophy"
+msgstr ""
+
+#: includes/types/fa.php:3338
+msgid "TTY"
+msgstr ""
+
+#: includes/types/fa.php:3343
+msgid "Umbrella"
+msgstr ""
+
+#: includes/types/fa.php:3348
+msgid "University"
+msgstr ""
+
+#: includes/types/fa.php:3363
+msgid "Unsorted"
+msgstr ""
+
+#: includes/types/fa.php:3383
+msgid "User: Add"
+msgstr ""
+
+#: includes/types/fa.php:3388
+msgid "User: Remove"
+msgstr ""
+
+#: includes/types/fa.php:3393
+msgid "User: Password"
+msgstr ""
+
+#: includes/types/fa.php:3398 includes/types/genericon.php:577
+msgid "Video Camera"
+msgstr ""
+
+#: includes/types/fa.php:3408
+msgid "Volume Of"
+msgstr ""
+
+#: includes/types/fa.php:3423
+msgid "WiFi"
+msgstr ""
+
+#: includes/types/font.php:191 includes/types/svg.php:110
+msgid "Deselect"
+msgstr ""
+
+#: includes/types/foundation-icons.php:56
+msgid "Devices"
+msgstr ""
+
+#: includes/types/foundation-icons.php:60
+msgid "Ecommerce"
+msgstr ""
+
+#: includes/types/foundation-icons.php:64
+msgid "Editor"
+msgstr ""
+
+#: includes/types/foundation-icons.php:72
+msgid "General"
+msgstr ""
+
+#: includes/types/foundation-icons.php:76
+msgid "Media Controls"
+msgstr ""
+
+#: includes/types/foundation-icons.php:80
+msgid "Miscellaneous"
+msgstr ""
+
+#: includes/types/foundation-icons.php:84
+msgid "People"
+msgstr ""
+
+#: includes/types/foundation-icons.php:88
+msgid "Social/Brand"
+msgstr ""
+
+#: includes/types/foundation-icons.php:129
+msgid "Closed Caption"
+msgstr ""
+
+#: includes/types/foundation-icons.php:134
+msgid "Elevator"
+msgstr ""
+
+#: includes/types/foundation-icons.php:144
+msgid "Hearing Aid"
+msgstr ""
+
+#: includes/types/foundation-icons.php:164
+msgid "Male & Female"
+msgstr ""
+
+#: includes/types/foundation-icons.php:169
+msgid "Male Symbol"
+msgstr ""
+
+#: includes/types/foundation-icons.php:174
+msgid "Female Symbol"
+msgstr ""
+
+#: includes/types/foundation-icons.php:204
+msgid "Arrows: Out"
+msgstr ""
+
+#: includes/types/foundation-icons.php:209
+msgid "Arrows: In"
+msgstr ""
+
+#: includes/types/foundation-icons.php:214
+msgid "Arrows: Expand"
+msgstr ""
+
+#: includes/types/foundation-icons.php:219
+msgid "Arrows: Compress"
+msgstr ""
+
+#: includes/types/foundation-icons.php:224
+msgid "Bluetooth"
+msgstr ""
+
+#: includes/types/foundation-icons.php:244
+msgid "Megaphone"
+msgstr ""
+
+#: includes/types/foundation-icons.php:259
+msgid "Mobile Signal"
+msgstr ""
+
+#: includes/types/foundation-icons.php:264
+msgid "Monitor"
+msgstr ""
+
+#: includes/types/foundation-icons.php:269
+msgid "Tablet: Portrait"
+msgstr ""
+
+#: includes/types/foundation-icons.php:274
+msgid "Tablet: Landscape"
+msgstr ""
+
+#: includes/types/foundation-icons.php:279
+msgid "Telephone"
+msgstr ""
+
+#: includes/types/foundation-icons.php:284
+msgid "USB"
+msgstr ""
+
+#: includes/types/foundation-icons.php:309
+msgid "EURO"
+msgstr ""
+
+#: includes/types/foundation-icons.php:314
+msgid "Pound"
+msgstr ""
+
+#: includes/types/foundation-icons.php:324
+msgid "Burst"
+msgstr ""
+
+#: includes/types/foundation-icons.php:329
+msgid "Burst: New"
+msgstr ""
+
+#: includes/types/foundation-icons.php:334
+msgid "Burst: Sale"
+msgstr ""
+
+#: includes/types/foundation-icons.php:344
+msgid "Dollar Bill"
+msgstr ""
+
+#: includes/types/foundation-icons.php:354
+msgid "Price Tag"
+msgstr ""
+
+#: includes/types/foundation-icons.php:359
+msgid "Price Tag: Multiple"
+msgstr ""
+
+#: includes/types/foundation-icons.php:399
+msgid "Background Color"
+msgstr ""
+
+#: includes/types/foundation-icons.php:434
+msgid "List: Number"
+msgstr ""
+
+#: includes/types/foundation-icons.php:439
+msgid "List: Bullet"
+msgstr ""
+
+#: includes/types/foundation-icons.php:454
+msgid "Add Page"
+msgstr ""
+
+#: includes/types/foundation-icons.php:459
+msgid "Copy Page"
+msgstr ""
+
+#: includes/types/foundation-icons.php:464
+msgid "Duplicate Page"
+msgstr ""
+
+#: includes/types/foundation-icons.php:469
+msgid "Delete Page"
+msgstr ""
+
+#: includes/types/foundation-icons.php:474
+msgid "Remove Page"
+msgstr ""
+
+#: includes/types/foundation-icons.php:479
+msgid "Edit Page"
+msgstr ""
+
+#: includes/types/foundation-icons.php:484
+msgid "Export"
+msgstr ""
+
+#: includes/types/foundation-icons.php:489
+msgid "Export to CSV"
+msgstr ""
+
+#: includes/types/foundation-icons.php:494
+msgid "Export to PDF"
+msgstr ""
+
+#: includes/types/foundation-icons.php:499
+msgid "Fill Page"
+msgstr ""
+
+#: includes/types/foundation-icons.php:514
+msgid "Paint Bucket"
+msgstr ""
+
+#: includes/types/foundation-icons.php:549
+msgid "Search in Page"
+msgstr ""
+
+#: includes/types/foundation-icons.php:559
+msgid "CSV"
+msgstr ""
+
+#: includes/types/foundation-icons.php:564
+msgid "Doc"
+msgstr ""
+
+#: includes/types/foundation-icons.php:569
+msgid "PDF"
+msgstr ""
+
+#: includes/types/foundation-icons.php:574
+msgid "Addressbook"
+msgstr ""
+
+#: includes/types/foundation-icons.php:579
+msgid "Alert"
+msgstr ""
+
+#: includes/types/foundation-icons.php:584
+msgid "Annotate"
+msgstr ""
+
+#: includes/types/foundation-icons.php:619
+msgid "Comment: Minus"
+msgstr ""
+
+#: includes/types/foundation-icons.php:624
+msgid "Comment: Quotes"
+msgstr ""
+
+#: includes/types/foundation-icons.php:629
+msgid "Comment: Video"
+msgstr ""
+
+#: includes/types/foundation-icons.php:639
+msgid "Contrast"
+msgstr ""
+
+#: includes/types/foundation-icons.php:654
+msgid "Folder: Add"
+msgstr ""
+
+#: includes/types/foundation-icons.php:659
+msgid "Folder: Lock"
+msgstr ""
+
+#: includes/types/foundation-icons.php:689
+#: includes/types/foundation-icons.php:694
+msgid "X"
+msgstr ""
+
+#: includes/types/foundation-icons.php:719
+msgid "Upload to Cloud"
+msgstr ""
+
+#: includes/types/foundation-icons.php:729
+msgid "Foundation"
+msgstr ""
+
+#: includes/types/foundation-icons.php:734
+msgid "Graph: Bar"
+msgstr ""
+
+#: includes/types/foundation-icons.php:739
+msgid "Graph: Horizontal"
+msgstr ""
+
+#: includes/types/foundation-icons.php:744
+msgid "Graph: Pie"
+msgstr ""
+
+#: includes/types/foundation-icons.php:749
+msgid "Graph: Trend"
+msgstr ""
+
+#: includes/types/foundation-icons.php:764
+msgid "Like"
+msgstr ""
+
+#: includes/types/foundation-icons.php:769
+msgid "Dislike"
+msgstr ""
+
+#: includes/types/foundation-icons.php:779
+msgid "List: Thumbnails"
+msgstr ""
+
+#: includes/types/foundation-icons.php:799
+msgid "Magnifying Glass"
+msgstr ""
+
+#: includes/types/foundation-icons.php:819
+msgid "Play Video"
+msgstr ""
+
+#: includes/types/foundation-icons.php:824
+msgid "Results"
+msgstr ""
+
+#: includes/types/foundation-icons.php:829
+msgid "Results: Demographics"
+msgstr ""
+
+#: includes/types/foundation-icons.php:844
+msgid "Sound"
+msgstr ""
+
+#: includes/types/foundation-icons.php:864
+msgid "Web"
+msgstr ""
+
+#: includes/types/foundation-icons.php:869
+msgid "Widget"
+msgstr ""
+
+#: includes/types/foundation-icons.php:914 includes/types/genericon.php:182
+msgid "Previous"
+msgstr ""
+
+#: includes/types/foundation-icons.php:919 includes/types/genericon.php:322
+msgid "Rewind"
+msgstr ""
+
+#: includes/types/foundation-icons.php:929 includes/types/genericon.php:187
+msgid "Next"
+msgstr ""
+
+#: includes/types/foundation-icons.php:934
+msgid "Volume"
+msgstr ""
+
+#: includes/types/foundation-icons.php:939
+msgid "Volume: Low"
+msgstr ""
+
+#: includes/types/foundation-icons.php:944
+msgid "Volume: Mute"
+msgstr ""
+
+#: includes/types/foundation-icons.php:949
+msgid "Loop"
+msgstr ""
+
+#: includes/types/foundation-icons.php:954 includes/types/genericon.php:267
+msgid "Shuffle"
+msgstr ""
+
+#: includes/types/foundation-icons.php:964
+msgid "Rewind 10"
+msgstr ""
+
+#: includes/types/foundation-icons.php:979
+msgid "@"
+msgstr ""
+
+#: includes/types/foundation-icons.php:984
+msgid "Battery: Full"
+msgstr ""
+
+#: includes/types/foundation-icons.php:989
+msgid "Battery: Half"
+msgstr ""
+
+#: includes/types/foundation-icons.php:994
+msgid "Battery: Empty"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1014
+msgid "Clipboard: Pencil"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1019
+msgid "Clipboard: Notes"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1024
+msgid "Crown"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1029
+msgid "Dice: 1"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1034
+msgid "Dice: 2"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1039
+msgid "Dice: 3"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1044
+msgid "Dice: 4"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1049
+msgid "Dice: 5"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1054
+msgid "Dice: 6"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1059
+msgid "Cone"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1064
+msgid "Firs Aid"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1069
+msgid "Foot"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1094
+msgid "Mountains"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1104
+msgid "No Dogs"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1109
+msgid "No Smoking"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1119
+msgid "Power"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1124
+msgid "Prohibited"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1129
+msgid "Projection Screen"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1139
+msgid "Sheriff Badge"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1149
+msgid "Skull"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1154
+#: includes/types/foundation-icons.php:1159
+msgid "Target"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1169
+msgid "Trees"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1184
+msgid "Torso: Business"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1189
+msgid "Torso: Female"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1194
+msgid "Torsos"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1199
+msgid "Torsos: All"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1204
+msgid "Torsos: All Female"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1209
+msgid "Torsos: Male & Female"
+msgstr ""
+
+#: includes/types/foundation-icons.php:1214
+msgid "Torsos: Female & Male"
+msgstr ""
+
+#: includes/types/genericon.php:61
+msgid "Media Player"
+msgstr ""
+
+#: includes/types/genericon.php:65
+msgid "Meta"
+msgstr ""
+
+#: includes/types/genericon.php:112
+msgid "Checkmark"
+msgstr ""
+
+#: includes/types/genericon.php:117 includes/types/genericon.php:122
+msgid "Close"
+msgstr ""
+
+#: includes/types/genericon.php:127
+msgid "Dropdown"
+msgstr ""
+
+#: includes/types/genericon.php:132
+msgid "Dropdown left"
+msgstr ""
+
+#: includes/types/genericon.php:162
+msgid "Maximize"
+msgstr ""
+
+#: includes/types/genericon.php:167
+msgid "Minimize"
+msgstr ""
+
+#: includes/types/genericon.php:197
+msgid "Hide"
+msgstr ""
+
+#: includes/types/genericon.php:202
+msgid "Show"
+msgstr ""
+
+#: includes/types/genericon.php:212
+msgid "Rating: Empty"
+msgstr ""
+
+#: includes/types/genericon.php:217
+msgid "Rating: Half"
+msgstr ""
+
+#: includes/types/genericon.php:222
+msgid "Rating: Full"
+msgstr ""
+
+#: includes/types/genericon.php:237
+msgid "Reply alt"
+msgstr ""
+
+#: includes/types/genericon.php:242
+msgid "Reply single"
+msgstr ""
+
+#: includes/types/genericon.php:252 includes/types/genericon.php:257
+msgid "Send to"
+msgstr ""
+
+#: includes/types/genericon.php:272
+msgid "Spam"
+msgstr ""
+
+#: includes/types/genericon.php:277
+msgid "Subscribe"
+msgstr ""
+
+#: includes/types/genericon.php:282
+msgid "Subscribed"
+msgstr ""
+
+#: includes/types/genericon.php:287
+msgid "Unsubscribe"
+msgstr ""
+
+#: includes/types/genericon.php:292
+msgid "Top"
+msgstr ""
+
+#: includes/types/genericon.php:297
+msgid "Unapprove"
+msgstr ""
+
+#: includes/types/genericon.php:302
+msgid "Zoom"
+msgstr ""
+
+#: includes/types/genericon.php:307
+msgid "Unzoom"
+msgstr ""
+
+#: includes/types/genericon.php:312
+msgid "X-Post"
+msgstr ""
+
+#: includes/types/genericon.php:317
+msgid "Skip back"
+msgstr ""
+
+#: includes/types/genericon.php:347
+msgid "Skip ahead"
+msgstr ""
+
+#: includes/types/genericon.php:362
+msgid "Hierarchy"
+msgstr ""
+
+#: includes/types/genericon.php:382
+msgid "Day"
+msgstr ""
+
+#: includes/types/genericon.php:387
+msgid "Week"
+msgstr ""
+
+#: includes/types/genericon.php:392
+msgid "Month"
+msgstr ""
+
+#: includes/types/genericon.php:397
+msgid "Pinned"
+msgstr ""
+
+#: includes/types/genericon.php:422
+msgid "Activity"
+msgstr ""
+
+#: includes/types/genericon.php:472
+msgid "Draggable"
+msgstr ""
+
+#: includes/types/genericon.php:482
+msgid "External"
+msgstr ""
+
+#: includes/types/genericon.php:487
+msgid "Feed"
+msgstr ""
+
+#: includes/types/genericon.php:502
+msgid "Handset"
+msgstr ""
+
+#: includes/types/genericon.php:517
+msgid "Mail"
+msgstr ""
+
+#: includes/types/genericon.php:532
+msgid "Notice"
+msgstr ""
+
+#: includes/types/genericon.php:552
+msgid "Plugin"
+msgstr ""
+
+#: includes/types/genericon.php:567
+msgid "Summary"
+msgstr ""
+
+#: includes/types/genericon.php:677
+msgid "Attachment"
+msgstr ""
+
+#: includes/types/svg.php:52
+msgid "SVG"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kucrut.org/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Pick an icon of your choice."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dzikri Aziz"
+msgstr ""

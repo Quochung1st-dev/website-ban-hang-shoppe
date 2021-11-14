@@ -1,0 +1,106 @@
+#yith_wccl_value {
+    width: 70px;
+}
+
+#term_value[data-type=colorpicker],
+#term_value + .wp-picker-clear,
+#term_value_button {
+    width: 80px;
+}
+
+.yith-wccl-color,
+.yith-wccl-label {
+    border: 1px solid #ccc;
+    background: #fff;
+    display: inline-block;
+    min-width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+
+.yith-wccl-label {
+    padding: 2px;
+    line-height: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.yith-wccl-image {
+    width: 50px;
+}
+
+.yith_wccl_dialog_modal .ui-dialog-titlebar-close:before {
+    display: none;
+}
+.yith_wccl_dialog_modal .ui-dialog-titlebar-close {
+    width: 25px;
+}
+#yith_wccl_dialog_form label {
+    display: block;
+    margin: 10px 0;
+    font-size: 90%
+}
+#yith_wccl_dialog_form label > input[type="text"] {
+    margin-top: 5px;
+    width: 100%;
+}
+#yith_wccl_dialog_form .dialog_error {
+    font-size: 90%;
+    color: #ff0000;
+}
+#yith_wccl_dialog_form .wp-picker-container {
+    display: block;
+    margin-top: 5px;
+}
+
+.yith-wccl-bicolor {
+    width:0;
+    height:0;
+    border-bottom: 20px solid;
+    border-left: 20px solid;
+    display: block;
+}
+
+#addtag .wp-picker-container,
+#edittag .wp-picker-container {
+    vertical-align: middle;
+}
+/* fix color picker open */
+#addtag .wp-picker-container .iris-picker,
+#edittag .wp-picker-container .iris-picker,
+#yith_wccl_dialog_form .wp-picker-container .iris-picker {
+    display: none !important;
+}
+#addtag .wp-picker-container.wp-picker-active .iris-picker,
+#edittag .wp-picker-container.wp-picker-active .iris-picker,
+#yith_wccl_dialog_form .wp-picker-container.wp-picker-active .iris-picker,
+#addtag .wp-picker-container.wp-picker-open .iris-picker,
+#edittag .wp-picker-container.wp-picker-open .iris-picker,
+#yith_wccl_dialog_form .wp-picker-container.wp-picker-open .iris-picker {
+    display: block !important;
+}
+.ywccl_add_color_icon,
+.ywccl_add_color_icon {
+    width: 15px;
+    height: 15px;
+    border: 1px solid #777;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 15px;
+    font-weight: bold;
+    color: #777;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 6px 6px 6px;
+    cursor: pointer;
+}
+#addtag .wp-picker-container.wp-picker-active + .ywccl_add_color_icon,
+#edittag .wp-picker-container.wp-picker-active + .ywccl_add_color_icon,
+#addtag .wp-picker-container.wp-picker-open + .ywccl_add_color_icon,
+#edittag .wp-picker-container.wp-picker-open + .ywccl_add_color_icon {
+    display: none;
+}
+
+.ui-dialog.yith_wccl_dialog_modal {
+    z-index: 100 !important;
+}

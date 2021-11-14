@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Color and Label Variations\n"
+"POT-Creation-Date: 2017-09-11 15:52+0200\n"
+"PO-Revision-Date: 2017-09-11 15:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: YIThemes <plugins@yithemes.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class.yith-wccl-admin.php:163
+#: ../includes/class.yith-wccl-admin.php:184
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../includes/class.yith-wccl-admin.php:190
+#: ../includes/class.yith-wccl-admin.php:191
+msgid "Color and Label Variations"
+msgstr "Color and Label Variations"
+
+#: ../includes/class.yith-wccl-admin.php:227
+msgid "Plugin Documentation"
+msgstr "Documentación del plugin"
+
+#: ../includes/class.yith-wccl-admin.php:476
+#: ../includes/class.yith-wccl-admin.php:505
+#: ../includes/class.yith-wccl-admin.php:799
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: ../includes/class.yith-wccl-admin.php:477
+#: ../includes/class.yith-wccl-admin.php:506
+msgid ""
+"Use this placeholder {show_image} to show the image on tooltip. Only "
+"available for image type"
+msgstr ""
+"Utiliza este marcador de posición {show_image} para mostrar la imagen en el "
+"tooltip. Sólo disponible para tipo imagen"
+
+#: ../includes/class.yith-wccl-admin.php:620
+#: ../includes/class.yith-wccl-admin.php:794
+msgid "Value"
+msgstr "Valor"
+
+#: ../includes/class.yith-wccl-admin.php:709
+msgid "Select terms"
+msgstr "Seleccionar términos"
+
+#: ../includes/class.yith-wccl-admin.php:719
+msgid "Select all"
+msgstr "Seleccionar todos"
+
+#: ../includes/class.yith-wccl-admin.php:720
+msgid "Select none"
+msgstr "No seleccionar ninguno"
+
+#: ../includes/class.yith-wccl-admin.php:721
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: ../includes/class.yith-wccl-admin.php:784
+msgid "Create new attribute term"
+msgstr "Crear nuevo término de atributo"
+
+#: ../includes/class.yith-wccl-admin.php:788
+msgid "Name"
+msgstr "Nombre"
+
+#: ../includes/class.yith-wccl-admin.php:791
+msgid "Slug"
+msgstr "Slug"
+
+#: ../includes/class.yith-wccl-admin.php:832
+msgid "A value is required for this term"
+msgstr "Se requiere un valor para este término"
+
+#: ../includes/function.yith-wccl.php:74
+msgid "Colorpicker"
+msgstr "Selector de color"
+
+#: ../includes/function.yith-wccl.php:75
+msgid "Image"
+msgstr "Imagen"
+
+#: ../includes/function.yith-wccl.php:76
+msgid "Label"
+msgstr "Etiqueta"
+
+#: ../init.php:41
+msgid ""
+"YITH WooCommerce Color and Label Variations Premium is enabled but not "
+"effective. It requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Color and Label Variations Premium está habilitado pero no "
+"es efectivo. Requiere WooCommerce para funcionar."
+
+#: ../plugin-options/general-options.php:11
+msgid "General Options"
+msgstr "Opciones Generales"
+
+#: ../plugin-options/general-options.php:18
+msgid "Attribute behavior"
+msgstr "Atributo de comportamiento"
+
+#: ../plugin-options/general-options.php:19
+msgid "Choose attribute style after selection."
+msgstr "Elegir estilo de atributo después de la selección."
+
+#: ../plugin-options/general-options.php:24
+msgid "Hide attributes"
+msgstr "Ocultar atributos"
+
+#: ../plugin-options/general-options.php:25
+msgid "Blur attributes"
+msgstr "Difuminar atributos"
+
+#: ../plugin-options/general-options.php:32
+msgid "Enable Tooltip"
+msgstr "Habilitar Tooltip"
+
+#: ../plugin-options/general-options.php:34
+msgid "Enable tooltip for attributes"
+msgstr "Habilitar tooltip para atributos"
+
+#: ../plugin-options/general-options.php:40
+msgid "Tooltip position"
+msgstr "Posición del Tooltip"
+
+#: ../plugin-options/general-options.php:41
+msgid "Select tooltip position"
+msgstr "Elige la posición del tooltip"
+
+#: ../plugin-options/general-options.php:44
+msgid "Top"
+msgstr "Arriba"
+
+#: ../plugin-options/general-options.php:45
+msgid "Bottom"
+msgstr "Abajo"
+
+#: ../plugin-options/general-options.php:52
+msgid "Tooltip animation"
+msgstr "Animación del tooltip"
+
+#: ../plugin-options/general-options.php:53
+msgid "Select tooltip animation"
+msgstr "Selecciona la animación del tooltip"
+
+#: ../plugin-options/general-options.php:56
+msgid "Fade in"
+msgstr "Aparecer"
+
+#: ../plugin-options/general-options.php:57
+msgid "Slide in"
+msgstr "Deslizarse"
+
+#: ../plugin-options/general-options.php:64
+msgid "Tooltip background"
+msgstr "Fondo del tooltip"
+
+#: ../plugin-options/general-options.php:65
+msgid "Select tooltip background"
+msgstr "Seleccionar fondo del tooltip"
+
+#: ../plugin-options/general-options.php:72
+msgid "Tooltip text color"
+msgstr "Color de texto del tooltip"
+
+#: ../plugin-options/general-options.php:73
+msgid "Select tooltip text color"
+msgstr "Seleccionar color de texto del tooltip"
+
+#: ../plugin-options/general-options.php:80
+msgid "Show Attribute Description"
+msgstr "Mostrar la descripción del atributo"
+
+#: ../plugin-options/general-options.php:82
+msgid "Choose to show description below each attribute in single product page"
+msgstr ""
+"Elegir si mostrar la descripción debajo de cada atributo en la página de "
+"producto único"
+
+#: ../plugin-options/general-options.php:88
+msgid "Enable plugin in archive pages"
+msgstr ""
+
+#: ../plugin-options/general-options.php:90
+msgid "Choose to show attribute selection in archive shop pages."
+msgstr ""
+
+#: ../plugin-options/general-options.php:96
+msgid "Form Position"
+msgstr "Posición del form"
+
+#: ../plugin-options/general-options.php:97
+msgid "Choose the form position in archive shop page"
+msgstr "Elegir la posición del form en la página de archivo de la tienda"
+
+#: ../plugin-options/general-options.php:100
+msgid "Before add to cart button"
+msgstr "Después del botón añadir al carrito"
+
+#: ../plugin-options/general-options.php:101
+msgid "After add to cart button"
+msgstr "Antes del botón añadir al carrito"
+
+#: ../plugin-options/general-options.php:108
+msgid "Enable AJAX form in archive pages"
+msgstr ""
+
+#: ../plugin-options/general-options.php:110
+msgid "Enable AJAX handle for variations form in archive shop pages."
+msgstr ""
+
+#: ../plugin-options/general-options.php:116
+msgid "Label for 'Add to cart' button"
+msgstr "Etiqueta del botón 'Añadir al carrito'"
+
+#: ../plugin-options/general-options.php:118
+msgid ""
+"Label for 'Add to cart' button when a variation is selected from archive page"
+msgstr ""
+"Etiqueta del botón 'Añadir al carrito' cuando se ha seleccionado una "
+"variación desde la página de archivo"
+
+#: ../plugin-options/general-options.php:119
+msgid "Add to cart"
+msgstr "Añadir al carrito"
+
+#: ../plugin-options/general-options.php:124
+msgid "Change product image on hover"
+msgstr ""
+
+#: ../plugin-options/general-options.php:126
+msgid ""
+"Change the product image when the mouse hovers the concerned attribute. "
+"PLEASE, NOTE: It works only for products that have only one attribute per "
+"variation."
+msgstr ""
+
+#: ../plugin-options/general-options.php:132
+msgid "Show custom attributes on \"Additional Information\" Tab"
+msgstr ""
+
+#: ../plugin-options/general-options.php:134
+msgid ""
+"Show custom attributes style on \"Additional Information\" Tab instead of "
+"simple text."
+msgstr ""
+
+#: ../templates/admin/yith-wccl-description-field.php:19
+#: ../templates/admin/yith-wccl-description-field.php:30
+msgid "Description"
+msgstr "Descripción"
+
+#: ../templates/admin/yith-wccl-description-field.php:23
+#: ../templates/admin/yith-wccl-description-field.php:32
+msgid "Description for product attributes."
+msgstr "Descripción de atributos de producto."
+
+#: ../templates/yith-wccl-variable-loop.php:32
+msgid "Choose an option"
+msgstr "Elige una opción"
+
+#~ msgid "Enable plugin in archive page"
+#~ msgstr "Habilitar plugin en página de archivo"
+
+#~ msgid "Choose to show attribute selection in archive shop page"
+#~ msgstr ""
+#~ "Elegir si mostrar la selección de atributos en la página archivo de la "
+#~ "tienda"
+
+#~ msgid "Out of stock"
+#~ msgstr "Fuera de stock"

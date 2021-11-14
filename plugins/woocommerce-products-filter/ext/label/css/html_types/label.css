@@ -1,0 +1,53 @@
+.woof_list_label li .woof_label_term:hover,
+.woof_list_label li .woof_label_term.checked {
+    background-color: #34495e;
+    border-color: #34495e;
+}
+
+
+.woof_list_label li {
+    display: inline-block;
+    margin: 2px;
+    vertical-align: top;
+}
+
+.woof_list_label .woof_label_term
+{
+    display: block;
+    background-color: #efefef;
+    border: 1px solid #ddd;
+    margin: 3px 3px 3px 0;
+    padding: 3px 4px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    overflow: hidden;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.woof_list_label li .woof_label_term:hover,
+.woof_list_label li .woof_label_term.checked
+{
+    background-color: #34495e;
+    border-color: #34495e;
+    color: #fff;
+}
+
+.woof_label_count{
+    font-size: 10px;
+    position: absolute; 
+    background: orangered;
+    margin: -5px 0 0 30px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+    border-radius: 200px;
+    width: 18px;
+    height: 18px;
+    line-height: 17px !important;
+    color: wheat;
+    text-align: center;
+    font-weight: bold;
+}
+
